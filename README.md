@@ -16,21 +16,20 @@ A portfolio-ready, frontend-heavy recommendation web app that demonstrates segme
 
 ```mermaid
 graph TD
-    subgraph Offline Pipeline (Python)
+    subgraph Offline_Pipeline_Python
         A[Data Generator] --> B[Feature Engineering]
         B --> C[Candidate Generation]
-        C --> D[Rank & Explain Engine]
-        D -->|Export JSON| E(App Static Assets)
+        C --> D[Rank and Explain Engine]
+        D --> E[Export JSON]
     end
-    
-    subgraph Frontend Client (React)
+
+    subgraph Frontend_Client_React
         E --> F[Vite Runtime]
-        F --> G[Segment Store]
-        F --> H[Items Store]
-        G --> I[UI Display & Dashboards]
-        H --> I
+        F --> G[Static JSON Loader]
+        G --> H[Recommendation UI]
+        G --> I[Insights Dashboard]
+        G --> J[Methodology Page]
     end
-```
 
 ## 🚀 Quick Setup & Local Development
 
