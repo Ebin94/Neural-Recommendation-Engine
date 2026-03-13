@@ -1,0 +1,22 @@
+[
+  {
+    "id": "p1",
+    "text": "Why is this item ranked #1?",
+    "action": "explain_top_rank"
+  },
+  {
+    "id": "p2",
+    "text": "Show cheaper alternatives",
+    "action": "filter_cheaper"
+  },
+  {
+    "id": "p3",
+    "text": "What should we promote to this user segment?",
+    "action": "show_segment_strategy"
+  },
+  {
+    "id": "p4",
+    "text": "Diversity boost (Explore)",
+    "action": "diversity_boost"
+  }
+]

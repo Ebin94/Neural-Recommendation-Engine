@@ -1,0 +1,89 @@
+# Feature Checklist
+
+## Phase 1 — Fast MVP
+
+### Core Setup
+- [ ] Monorepo or clean split between `model/` and `app/`
+- [ ] React + Vite app initialized
+- [ ] Tailwind configured
+- [ ] Recharts installed
+- [ ] Data loading from `/public/data`
+
+### Data / Model
+- [ ] Public dataset chosen
+- [ ] Preprocessing script created
+- [ ] Offline recommender model trained
+- [ ] Top-N recommendations generated
+- [ ] JSON artifact export working
+
+### UI Pages
+- [ ] Landing page
+- [ ] Recommendations page
+- [ ] Insights page
+- [ ] Methodology/About page
+
+### Recommendation Experience
+- [ ] Persona/user selector
+- [ ] Recommendation list
+- [ ] Recommendation score shown
+- [ ] Item metadata shown
+- [ ] Tags/badges shown
+- [ ] Detail drawer/panel works
+
+### Explanation Layer
+- [ ] Structured explanation reasons per item
+- [ ] Human-readable explanation card
+- [ ] Score breakdown or reason chips
+
+### Insights Layer
+- [ ] Top categories chart
+- [ ] Segment performance chart
+- [ ] Price distribution chart
+- [ ] Rating distribution chart
+- [ ] Reason breakdown chart
+
+### Polish
+- [ ] Responsive layout
+- [ ] Loading states
+- [ ] Empty states
+- [ ] Error fallback for bad/missing JSON
+- [ ] Clean visual style
+- [ ] Deployed on Vercel
+
+---
+
+## Phase 2 — Differentiator
+
+### Re-ranking
+- [ ] Value prioritization toggle
+- [ ] Rating prioritization toggle
+- [ ] Novelty prioritization toggle
+- [ ] Diversity-aware re-ranking
+- [ ] Premium vs budget weighting option
+
+### Copilot / Prompt Actions
+- [ ] Prompt action bar
+- [ ] Deterministic intent routing
+- [ ] "Why ranked #1?" handler
+- [ ] "Show cheaper alternatives" handler
+- [ ] "What should we promote?" handler
+- [ ] "Why did premium rank lower?" handler
+
+### Enhanced Explanations
+- [ ] Compare item vs adjacent ranked items
+- [ ] Mention active ranking preferences
+- [ ] Mention user segment patterns
+- [ ] Mention metadata-driven reasons
+
+### Business Intelligence
+- [ ] Under-exposed high-quality items panel
+- [ ] Category mix recommendation panel
+- [ ] Segment strategy suggestions
+- [ ] Promotion opportunities section
+
+### Final Portfolio Readiness
+- [ ] README complete
+- [ ] Screenshots added
+- [ ] Demo GIF added
+- [ ] Resume bullets drafted
+- [ ] Architecture diagram included

@@ -1,0 +1,5609 @@
+[
+  {
+    "id": "i0001",
+    "name": "Accessories Product 1",
+    "category": "Accessories",
+    "price": 23.27,
+    "rating": 4.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=1&backgroundColor=f8fafc",
+    "popularity": 283,
+    "tags": []
+  },
+  {
+    "id": "i0002",
+    "name": "Audio Product 2",
+    "category": "Audio",
+    "price": 88.29,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=2&backgroundColor=f8fafc",
+    "popularity": 117,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0003",
+    "name": "Gaming Product 3",
+    "category": "Gaming",
+    "price": 83.02,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=3&backgroundColor=f8fafc",
+    "popularity": 92,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0004",
+    "name": "Smart Home Product 4",
+    "category": "Smart Home",
+    "price": 61.46,
+    "rating": 4.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=4&backgroundColor=f8fafc",
+    "popularity": 93,
+    "tags": []
+  },
+  {
+    "id": "i0005",
+    "name": "Smart Home Product 5",
+    "category": "Smart Home",
+    "price": 9.99,
+    "rating": 4.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=5&backgroundColor=f8fafc",
+    "popularity": 26,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0006",
+    "name": "Laptops Product 6",
+    "category": "Laptops",
+    "price": 394.87,
+    "rating": 3.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=6&backgroundColor=f8fafc",
+    "popularity": 203,
+    "tags": []
+  },
+  {
+    "id": "i0007",
+    "name": "Accessories Product 7",
+    "category": "Accessories",
+    "price": 9.99,
+    "rating": 3.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=7&backgroundColor=f8fafc",
+    "popularity": 642,
+    "tags": [
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0008",
+    "name": "Accessories Product 8",
+    "category": "Accessories",
+    "price": 25.84,
+    "rating": 4.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=8&backgroundColor=f8fafc",
+    "popularity": 35,
+    "tags": []
+  },
+  {
+    "id": "i0009",
+    "name": "Cameras Product 9",
+    "category": "Cameras",
+    "price": 527.73,
+    "rating": 3.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=9&backgroundColor=f8fafc",
+    "popularity": 46,
+    "tags": []
+  },
+  {
+    "id": "i0010",
+    "name": "Audio Product 10",
+    "category": "Audio",
+    "price": 69.97,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=10&backgroundColor=f8fafc",
+    "popularity": 110,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0011",
+    "name": "Audio Product 11",
+    "category": "Audio",
+    "price": 192.61,
+    "rating": 3.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=11&backgroundColor=f8fafc",
+    "popularity": 146,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0012",
+    "name": "Accessories Product 12",
+    "category": "Accessories",
+    "price": 35.28,
+    "rating": 3.5,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=12&backgroundColor=f8fafc",
+    "popularity": 43,
+    "tags": []
+  },
+  {
+    "id": "i0013",
+    "name": "Smart Home Product 13",
+    "category": "Smart Home",
+    "price": 9.99,
+    "rating": 4.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=13&backgroundColor=f8fafc",
+    "popularity": 39,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0014",
+    "name": "Smart Home Product 14",
+    "category": "Smart Home",
+    "price": 109.54,
+    "rating": 4.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=14&backgroundColor=f8fafc",
+    "popularity": 176,
+    "tags": []
+  },
+  {
+    "id": "i0015",
+    "name": "Audio Product 15",
+    "category": "Audio",
+    "price": 84.94,
+    "rating": 4.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=15&backgroundColor=f8fafc",
+    "popularity": 33,
+    "tags": []
+  },
+  {
+    "id": "i0016",
+    "name": "Smart Home Product 16",
+    "category": "Smart Home",
+    "price": 61.57,
+    "rating": 3.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=16&backgroundColor=f8fafc",
+    "popularity": 427,
+    "tags": []
+  },
+  {
+    "id": "i0017",
+    "name": "Cameras Product 17",
+    "category": "Cameras",
+    "price": 59.24,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=17&backgroundColor=f8fafc",
+    "popularity": 205,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0018",
+    "name": "Smart Home Product 18",
+    "category": "Smart Home",
+    "price": 52.92,
+    "rating": 3.9,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=18&backgroundColor=f8fafc",
+    "popularity": 273,
+    "tags": []
+  },
+  {
+    "id": "i0019",
+    "name": "Networking Product 19",
+    "category": "Networking",
+    "price": 175.88,
+    "rating": 4.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=19&backgroundColor=f8fafc",
+    "popularity": 64,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0020",
+    "name": "Gaming Product 20",
+    "category": "Gaming",
+    "price": 69.94,
+    "rating": 3.9,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=20&backgroundColor=f8fafc",
+    "popularity": 393,
+    "tags": []
+  },
+  {
+    "id": "i0021",
+    "name": "Audio Product 21",
+    "category": "Audio",
+    "price": 90.72,
+    "rating": 3.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=21&backgroundColor=f8fafc",
+    "popularity": 49,
+    "tags": []
+  },
+  {
+    "id": "i0022",
+    "name": "Laptops Product 22",
+    "category": "Laptops",
+    "price": 1125.01,
+    "rating": 3.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=22&backgroundColor=f8fafc",
+    "popularity": 576,
+    "tags": [
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0023",
+    "name": "Cameras Product 23",
+    "category": "Cameras",
+    "price": 750.88,
+    "rating": 4.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=23&backgroundColor=f8fafc",
+    "popularity": 213,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0024",
+    "name": "Wearables Product 24",
+    "category": "Wearables",
+    "price": 177.1,
+    "rating": 3.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=24&backgroundColor=f8fafc",
+    "popularity": 690,
+    "tags": [
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0025",
+    "name": "Gaming Product 25",
+    "category": "Gaming",
+    "price": 106.94,
+    "rating": 4.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=25&backgroundColor=f8fafc",
+    "popularity": 10,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0026",
+    "name": "Laptops Product 26",
+    "category": "Laptops",
+    "price": 834.82,
+    "rating": 4.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=26&backgroundColor=f8fafc",
+    "popularity": 110,
+    "tags": []
+  },
+  {
+    "id": "i0027",
+    "name": "Smart Home Product 27",
+    "category": "Smart Home",
+    "price": 9.99,
+    "rating": 4.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=27&backgroundColor=f8fafc",
+    "popularity": 119,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0028",
+    "name": "Wearables Product 28",
+    "category": "Wearables",
+    "price": 260.84,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=28&backgroundColor=f8fafc",
+    "popularity": 88,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0029",
+    "name": "Accessories Product 29",
+    "category": "Accessories",
+    "price": 18.73,
+    "rating": 3.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=29&backgroundColor=f8fafc",
+    "popularity": 370,
+    "tags": []
+  },
+  {
+    "id": "i0030",
+    "name": "Accessories Product 30",
+    "category": "Accessories",
+    "price": 18.38,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=30&backgroundColor=f8fafc",
+    "popularity": 247,
+    "tags": []
+  },
+  {
+    "id": "i0031",
+    "name": "Cameras Product 31",
+    "category": "Cameras",
+    "price": 742.16,
+    "rating": 4.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=31&backgroundColor=f8fafc",
+    "popularity": 73,
+    "tags": []
+  },
+  {
+    "id": "i0032",
+    "name": "Accessories Product 32",
+    "category": "Accessories",
+    "price": 20.1,
+    "rating": 3.9,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=32&backgroundColor=f8fafc",
+    "popularity": 34,
+    "tags": []
+  },
+  {
+    "id": "i0033",
+    "name": "Wearables Product 33",
+    "category": "Wearables",
+    "price": 169.58,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=33&backgroundColor=f8fafc",
+    "popularity": 149,
+    "tags": []
+  },
+  {
+    "id": "i0034",
+    "name": "Wearables Product 34",
+    "category": "Wearables",
+    "price": 43.85,
+    "rating": 4.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=34&backgroundColor=f8fafc",
+    "popularity": 97,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0035",
+    "name": "Gaming Product 35",
+    "category": "Gaming",
+    "price": 35.93,
+    "rating": 3.9,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=35&backgroundColor=f8fafc",
+    "popularity": 126,
+    "tags": []
+  },
+  {
+    "id": "i0036",
+    "name": "Audio Product 36",
+    "category": "Audio",
+    "price": 194.31,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=36&backgroundColor=f8fafc",
+    "popularity": 176,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0037",
+    "name": "Networking Product 37",
+    "category": "Networking",
+    "price": 115.53,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=37&backgroundColor=f8fafc",
+    "popularity": 21,
+    "tags": []
+  },
+  {
+    "id": "i0038",
+    "name": "Accessories Product 38",
+    "category": "Accessories",
+    "price": 25.75,
+    "rating": 4.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=38&backgroundColor=f8fafc",
+    "popularity": 1742,
+    "tags": [
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0039",
+    "name": "Cameras Product 39",
+    "category": "Cameras",
+    "price": 575.39,
+    "rating": 4.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=39&backgroundColor=f8fafc",
+    "popularity": 143,
+    "tags": []
+  },
+  {
+    "id": "i0040",
+    "name": "Accessories Product 40",
+    "category": "Accessories",
+    "price": 39.29,
+    "rating": 3.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=40&backgroundColor=f8fafc",
+    "popularity": 314,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0041",
+    "name": "Gaming Product 41",
+    "category": "Gaming",
+    "price": 32.72,
+    "rating": 4.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=41&backgroundColor=f8fafc",
+    "popularity": 603,
+    "tags": [
+      "Trending",
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0042",
+    "name": "Wearables Product 42",
+    "category": "Wearables",
+    "price": 194.01,
+    "rating": 3.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=42&backgroundColor=f8fafc",
+    "popularity": 1326,
+    "tags": [
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0043",
+    "name": "Smart Home Product 43",
+    "category": "Smart Home",
+    "price": 57.35,
+    "rating": 3.5,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=43&backgroundColor=f8fafc",
+    "popularity": 163,
+    "tags": []
+  },
+  {
+    "id": "i0044",
+    "name": "Accessories Product 44",
+    "category": "Accessories",
+    "price": 9.99,
+    "rating": 3.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=44&backgroundColor=f8fafc",
+    "popularity": 158,
+    "tags": []
+  },
+  {
+    "id": "i0045",
+    "name": "Audio Product 45",
+    "category": "Audio",
+    "price": 123.68,
+    "rating": 3.5,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=45&backgroundColor=f8fafc",
+    "popularity": 59,
+    "tags": []
+  },
+  {
+    "id": "i0046",
+    "name": "Smart Home Product 46",
+    "category": "Smart Home",
+    "price": 48.67,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=46&backgroundColor=f8fafc",
+    "popularity": 107,
+    "tags": [
+      "High Rated",
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0047",
+    "name": "Gaming Product 47",
+    "category": "Gaming",
+    "price": 23.07,
+    "rating": 4.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=47&backgroundColor=f8fafc",
+    "popularity": 186,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0048",
+    "name": "Accessories Product 48",
+    "category": "Accessories",
+    "price": 9.99,
+    "rating": 4.9,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=48&backgroundColor=f8fafc",
+    "popularity": 178,
+    "tags": [
+      "High Rated",
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0049",
+    "name": "Smart Home Product 49",
+    "category": "Smart Home",
+    "price": 111.27,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=49&backgroundColor=f8fafc",
+    "popularity": 43,
+    "tags": []
+  },
+  {
+    "id": "i0050",
+    "name": "Accessories Product 50",
+    "category": "Accessories",
+    "price": 31.52,
+    "rating": 3.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=50&backgroundColor=f8fafc",
+    "popularity": 199,
+    "tags": []
+  },
+  {
+    "id": "i0051",
+    "name": "Cameras Product 51",
+    "category": "Cameras",
+    "price": 586.61,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=51&backgroundColor=f8fafc",
+    "popularity": 75,
+    "tags": []
+  },
+  {
+    "id": "i0052",
+    "name": "Gaming Product 52",
+    "category": "Gaming",
+    "price": 68.79,
+    "rating": 4.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=52&backgroundColor=f8fafc",
+    "popularity": 72,
+    "tags": []
+  },
+  {
+    "id": "i0053",
+    "name": "Networking Product 53",
+    "category": "Networking",
+    "price": 148.43,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=53&backgroundColor=f8fafc",
+    "popularity": 45,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0054",
+    "name": "Wearables Product 54",
+    "category": "Wearables",
+    "price": 76.9,
+    "rating": 4.5,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=54&backgroundColor=f8fafc",
+    "popularity": 326,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0055",
+    "name": "Laptops Product 55",
+    "category": "Laptops",
+    "price": 471.73,
+    "rating": 4.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=55&backgroundColor=f8fafc",
+    "popularity": 388,
+    "tags": [
+      "High Rated",
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0056",
+    "name": "Wearables Product 56",
+    "category": "Wearables",
+    "price": 211.65,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=56&backgroundColor=f8fafc",
+    "popularity": 989,
+    "tags": [
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0057",
+    "name": "Wearables Product 57",
+    "category": "Wearables",
+    "price": 93.47,
+    "rating": 4.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=57&backgroundColor=f8fafc",
+    "popularity": 60,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0058",
+    "name": "Smart Home Product 58",
+    "category": "Smart Home",
+    "price": 76.92,
+    "rating": 3.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=58&backgroundColor=f8fafc",
+    "popularity": 208,
+    "tags": []
+  },
+  {
+    "id": "i0059",
+    "name": "Gaming Product 59",
+    "category": "Gaming",
+    "price": 84.82,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=59&backgroundColor=f8fafc",
+    "popularity": 150,
+    "tags": []
+  },
+  {
+    "id": "i0060",
+    "name": "Accessories Product 60",
+    "category": "Accessories",
+    "price": 21.69,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=60&backgroundColor=f8fafc",
+    "popularity": 2253,
+    "tags": [
+      "High Rated",
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0061",
+    "name": "Laptops Product 61",
+    "category": "Laptops",
+    "price": 457.14,
+    "rating": 4.5,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=61&backgroundColor=f8fafc",
+    "popularity": 50,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0062",
+    "name": "Smart Home Product 62",
+    "category": "Smart Home",
+    "price": 71.06,
+    "rating": 4.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=62&backgroundColor=f8fafc",
+    "popularity": 303,
+    "tags": []
+  },
+  {
+    "id": "i0063",
+    "name": "Laptops Product 63",
+    "category": "Laptops",
+    "price": 770.87,
+    "rating": 4.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=63&backgroundColor=f8fafc",
+    "popularity": 63,
+    "tags": []
+  },
+  {
+    "id": "i0064",
+    "name": "Networking Product 64",
+    "category": "Networking",
+    "price": 93.21,
+    "rating": 3.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=64&backgroundColor=f8fafc",
+    "popularity": 349,
+    "tags": []
+  },
+  {
+    "id": "i0065",
+    "name": "Cameras Product 65",
+    "category": "Cameras",
+    "price": 188.57,
+    "rating": 4.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=65&backgroundColor=f8fafc",
+    "popularity": 176,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0066",
+    "name": "Gaming Product 66",
+    "category": "Gaming",
+    "price": 33.48,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=66&backgroundColor=f8fafc",
+    "popularity": 173,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0067",
+    "name": "Smart Home Product 67",
+    "category": "Smart Home",
+    "price": 34.28,
+    "rating": 4.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=67&backgroundColor=f8fafc",
+    "popularity": 212,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0068",
+    "name": "Wearables Product 68",
+    "category": "Wearables",
+    "price": 231.23,
+    "rating": 4.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=68&backgroundColor=f8fafc",
+    "popularity": 425,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0069",
+    "name": "Audio Product 69",
+    "category": "Audio",
+    "price": 53.11,
+    "rating": 3.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=69&backgroundColor=f8fafc",
+    "popularity": 248,
+    "tags": []
+  },
+  {
+    "id": "i0070",
+    "name": "Smart Home Product 70",
+    "category": "Smart Home",
+    "price": 100.6,
+    "rating": 4.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=70&backgroundColor=f8fafc",
+    "popularity": 6993,
+    "tags": [
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0071",
+    "name": "Audio Product 71",
+    "category": "Audio",
+    "price": 156.78,
+    "rating": 4.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=71&backgroundColor=f8fafc",
+    "popularity": 385,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0072",
+    "name": "Wearables Product 72",
+    "category": "Wearables",
+    "price": 126.35,
+    "rating": 4.5,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=72&backgroundColor=f8fafc",
+    "popularity": 317,
+    "tags": []
+  },
+  {
+    "id": "i0073",
+    "name": "Cameras Product 73",
+    "category": "Cameras",
+    "price": 440.8,
+    "rating": 3.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=73&backgroundColor=f8fafc",
+    "popularity": 91,
+    "tags": []
+  },
+  {
+    "id": "i0074",
+    "name": "Gaming Product 74",
+    "category": "Gaming",
+    "price": 129.44,
+    "rating": 4.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=74&backgroundColor=f8fafc",
+    "popularity": 22,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0075",
+    "name": "Accessories Product 75",
+    "category": "Accessories",
+    "price": 9.99,
+    "rating": 4.5,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=75&backgroundColor=f8fafc",
+    "popularity": 92,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0076",
+    "name": "Smart Home Product 76",
+    "category": "Smart Home",
+    "price": 82.57,
+    "rating": 4.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=76&backgroundColor=f8fafc",
+    "popularity": 50,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0077",
+    "name": "Wearables Product 77",
+    "category": "Wearables",
+    "price": 200.97,
+    "rating": 3.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=77&backgroundColor=f8fafc",
+    "popularity": 71,
+    "tags": []
+  },
+  {
+    "id": "i0078",
+    "name": "Smart Home Product 78",
+    "category": "Smart Home",
+    "price": 81.82,
+    "rating": 4.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=78&backgroundColor=f8fafc",
+    "popularity": 77,
+    "tags": []
+  },
+  {
+    "id": "i0079",
+    "name": "Networking Product 79",
+    "category": "Networking",
+    "price": 158.04,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=79&backgroundColor=f8fafc",
+    "popularity": 19,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0080",
+    "name": "Cameras Product 80",
+    "category": "Cameras",
+    "price": 334.55,
+    "rating": 4.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=80&backgroundColor=f8fafc",
+    "popularity": 348,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0081",
+    "name": "Networking Product 81",
+    "category": "Networking",
+    "price": 113.12,
+    "rating": 3.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=81&backgroundColor=f8fafc",
+    "popularity": 245,
+    "tags": []
+  },
+  {
+    "id": "i0082",
+    "name": "Laptops Product 82",
+    "category": "Laptops",
+    "price": 319.88,
+    "rating": 4.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=82&backgroundColor=f8fafc",
+    "popularity": 106,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0083",
+    "name": "Gaming Product 83",
+    "category": "Gaming",
+    "price": 40.4,
+    "rating": 3.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=83&backgroundColor=f8fafc",
+    "popularity": 867,
+    "tags": [
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0084",
+    "name": "Laptops Product 84",
+    "category": "Laptops",
+    "price": 295.65,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=84&backgroundColor=f8fafc",
+    "popularity": 371,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0085",
+    "name": "Smart Home Product 85",
+    "category": "Smart Home",
+    "price": 121.3,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=85&backgroundColor=f8fafc",
+    "popularity": 32,
+    "tags": [
+      "High Rated",
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0086",
+    "name": "Gaming Product 86",
+    "category": "Gaming",
+    "price": 98.01,
+    "rating": 3.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=86&backgroundColor=f8fafc",
+    "popularity": 73,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0087",
+    "name": "Cameras Product 87",
+    "category": "Cameras",
+    "price": 693.66,
+    "rating": 4.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=87&backgroundColor=f8fafc",
+    "popularity": 58,
+    "tags": []
+  },
+  {
+    "id": "i0088",
+    "name": "Cameras Product 88",
+    "category": "Cameras",
+    "price": 9.99,
+    "rating": 4.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=88&backgroundColor=f8fafc",
+    "popularity": 53,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0089",
+    "name": "Wearables Product 89",
+    "category": "Wearables",
+    "price": 56.42,
+    "rating": 3.9,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=89&backgroundColor=f8fafc",
+    "popularity": 759,
+    "tags": [
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0090",
+    "name": "Smart Home Product 90",
+    "category": "Smart Home",
+    "price": 62.4,
+    "rating": 3.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=90&backgroundColor=f8fafc",
+    "popularity": 169,
+    "tags": []
+  },
+  {
+    "id": "i0091",
+    "name": "Laptops Product 91",
+    "category": "Laptops",
+    "price": 225.66,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=91&backgroundColor=f8fafc",
+    "popularity": 474,
+    "tags": [
+      "High Rated",
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0092",
+    "name": "Networking Product 92",
+    "category": "Networking",
+    "price": 61.11,
+    "rating": 4.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=92&backgroundColor=f8fafc",
+    "popularity": 235,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0093",
+    "name": "Accessories Product 93",
+    "category": "Accessories",
+    "price": 17.5,
+    "rating": 4.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=93&backgroundColor=f8fafc",
+    "popularity": 159,
+    "tags": []
+  },
+  {
+    "id": "i0094",
+    "name": "Audio Product 94",
+    "category": "Audio",
+    "price": 105.68,
+    "rating": 3.9,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=94&backgroundColor=f8fafc",
+    "popularity": 287,
+    "tags": []
+  },
+  {
+    "id": "i0095",
+    "name": "Accessories Product 95",
+    "category": "Accessories",
+    "price": 9.99,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=95&backgroundColor=f8fafc",
+    "popularity": 1252,
+    "tags": [
+      "High Rated",
+      "Trending",
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0096",
+    "name": "Laptops Product 96",
+    "category": "Laptops",
+    "price": 739.29,
+    "rating": 2.9,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=96&backgroundColor=f8fafc",
+    "popularity": 267,
+    "tags": []
+  },
+  {
+    "id": "i0097",
+    "name": "Laptops Product 97",
+    "category": "Laptops",
+    "price": 550.92,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=97&backgroundColor=f8fafc",
+    "popularity": 120,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0098",
+    "name": "Cameras Product 98",
+    "category": "Cameras",
+    "price": 352.66,
+    "rating": 3.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=98&backgroundColor=f8fafc",
+    "popularity": 347,
+    "tags": []
+  },
+  {
+    "id": "i0099",
+    "name": "Accessories Product 99",
+    "category": "Accessories",
+    "price": 16.34,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=99&backgroundColor=f8fafc",
+    "popularity": 364,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0100",
+    "name": "Cameras Product 100",
+    "category": "Cameras",
+    "price": 703.22,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=100&backgroundColor=f8fafc",
+    "popularity": 278,
+    "tags": []
+  },
+  {
+    "id": "i0101",
+    "name": "Cameras Product 101",
+    "category": "Cameras",
+    "price": 359.95,
+    "rating": 3.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=101&backgroundColor=f8fafc",
+    "popularity": 313,
+    "tags": []
+  },
+  {
+    "id": "i0102",
+    "name": "Networking Product 102",
+    "category": "Networking",
+    "price": 118.75,
+    "rating": 4.5,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=102&backgroundColor=f8fafc",
+    "popularity": 166,
+    "tags": []
+  },
+  {
+    "id": "i0103",
+    "name": "Gaming Product 103",
+    "category": "Gaming",
+    "price": 42.25,
+    "rating": 4.9,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=103&backgroundColor=f8fafc",
+    "popularity": 256,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0104",
+    "name": "Audio Product 104",
+    "category": "Audio",
+    "price": 89.12,
+    "rating": 4.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=104&backgroundColor=f8fafc",
+    "popularity": 445,
+    "tags": []
+  },
+  {
+    "id": "i0105",
+    "name": "Accessories Product 105",
+    "category": "Accessories",
+    "price": 35.17,
+    "rating": 4.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=105&backgroundColor=f8fafc",
+    "popularity": 547,
+    "tags": [
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0106",
+    "name": "Gaming Product 106",
+    "category": "Gaming",
+    "price": 80.46,
+    "rating": 4.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=106&backgroundColor=f8fafc",
+    "popularity": 108,
+    "tags": []
+  },
+  {
+    "id": "i0107",
+    "name": "Wearables Product 107",
+    "category": "Wearables",
+    "price": 140.24,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=107&backgroundColor=f8fafc",
+    "popularity": 163,
+    "tags": []
+  },
+  {
+    "id": "i0108",
+    "name": "Accessories Product 108",
+    "category": "Accessories",
+    "price": 14.77,
+    "rating": 4.5,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=108&backgroundColor=f8fafc",
+    "popularity": 1202,
+    "tags": [
+      "Trending",
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0109",
+    "name": "Gaming Product 109",
+    "category": "Gaming",
+    "price": 23.57,
+    "rating": 3.5,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=109&backgroundColor=f8fafc",
+    "popularity": 472,
+    "tags": []
+  },
+  {
+    "id": "i0110",
+    "name": "Cameras Product 110",
+    "category": "Cameras",
+    "price": 656.03,
+    "rating": 4.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=110&backgroundColor=f8fafc",
+    "popularity": 278,
+    "tags": []
+  },
+  {
+    "id": "i0111",
+    "name": "Laptops Product 111",
+    "category": "Laptops",
+    "price": 441.1,
+    "rating": 4.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=111&backgroundColor=f8fafc",
+    "popularity": 160,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0112",
+    "name": "Networking Product 112",
+    "category": "Networking",
+    "price": 178.51,
+    "rating": 3.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=112&backgroundColor=f8fafc",
+    "popularity": 128,
+    "tags": []
+  },
+  {
+    "id": "i0113",
+    "name": "Audio Product 113",
+    "category": "Audio",
+    "price": 83.93,
+    "rating": 3.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=113&backgroundColor=f8fafc",
+    "popularity": 224,
+    "tags": []
+  },
+  {
+    "id": "i0114",
+    "name": "Gaming Product 114",
+    "category": "Gaming",
+    "price": 35.33,
+    "rating": 3.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=114&backgroundColor=f8fafc",
+    "popularity": 189,
+    "tags": []
+  },
+  {
+    "id": "i0115",
+    "name": "Laptops Product 115",
+    "category": "Laptops",
+    "price": 597.22,
+    "rating": 4.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=115&backgroundColor=f8fafc",
+    "popularity": 92,
+    "tags": []
+  },
+  {
+    "id": "i0116",
+    "name": "Accessories Product 116",
+    "category": "Accessories",
+    "price": 9.99,
+    "rating": 4.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=116&backgroundColor=f8fafc",
+    "popularity": 36,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0117",
+    "name": "Gaming Product 117",
+    "category": "Gaming",
+    "price": 53.6,
+    "rating": 3.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=117&backgroundColor=f8fafc",
+    "popularity": 202,
+    "tags": []
+  },
+  {
+    "id": "i0118",
+    "name": "Smart Home Product 118",
+    "category": "Smart Home",
+    "price": 114.31,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=118&backgroundColor=f8fafc",
+    "popularity": 126,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0119",
+    "name": "Laptops Product 119",
+    "category": "Laptops",
+    "price": 398.99,
+    "rating": 4.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=119&backgroundColor=f8fafc",
+    "popularity": 145,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0120",
+    "name": "Wearables Product 120",
+    "category": "Wearables",
+    "price": 174.2,
+    "rating": 3.9,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=120&backgroundColor=f8fafc",
+    "popularity": 64,
+    "tags": []
+  },
+  {
+    "id": "i0121",
+    "name": "Laptops Product 121",
+    "category": "Laptops",
+    "price": 1413.1,
+    "rating": 4.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=121&backgroundColor=f8fafc",
+    "popularity": 133,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0122",
+    "name": "Audio Product 122",
+    "category": "Audio",
+    "price": 134.51,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=122&backgroundColor=f8fafc",
+    "popularity": 99,
+    "tags": []
+  },
+  {
+    "id": "i0123",
+    "name": "Wearables Product 123",
+    "category": "Wearables",
+    "price": 150.94,
+    "rating": 4.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=123&backgroundColor=f8fafc",
+    "popularity": 163,
+    "tags": []
+  },
+  {
+    "id": "i0124",
+    "name": "Networking Product 124",
+    "category": "Networking",
+    "price": 121.47,
+    "rating": 3.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=124&backgroundColor=f8fafc",
+    "popularity": 244,
+    "tags": []
+  },
+  {
+    "id": "i0125",
+    "name": "Audio Product 125",
+    "category": "Audio",
+    "price": 147.96,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=125&backgroundColor=f8fafc",
+    "popularity": 1278,
+    "tags": [
+      "High Rated",
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0126",
+    "name": "Accessories Product 126",
+    "category": "Accessories",
+    "price": 35.9,
+    "rating": 3.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=126&backgroundColor=f8fafc",
+    "popularity": 178,
+    "tags": []
+  },
+  {
+    "id": "i0127",
+    "name": "Wearables Product 127",
+    "category": "Wearables",
+    "price": 89.38,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=127&backgroundColor=f8fafc",
+    "popularity": 64,
+    "tags": [
+      "High Rated",
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0128",
+    "name": "Gaming Product 128",
+    "category": "Gaming",
+    "price": 9.99,
+    "rating": 3.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=128&backgroundColor=f8fafc",
+    "popularity": 87,
+    "tags": []
+  },
+  {
+    "id": "i0129",
+    "name": "Smart Home Product 129",
+    "category": "Smart Home",
+    "price": 86.02,
+    "rating": 3.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=129&backgroundColor=f8fafc",
+    "popularity": 208,
+    "tags": []
+  },
+  {
+    "id": "i0130",
+    "name": "Audio Product 130",
+    "category": "Audio",
+    "price": 147.52,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=130&backgroundColor=f8fafc",
+    "popularity": 83,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0131",
+    "name": "Smart Home Product 131",
+    "category": "Smart Home",
+    "price": 99.68,
+    "rating": 3.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=131&backgroundColor=f8fafc",
+    "popularity": 39,
+    "tags": []
+  },
+  {
+    "id": "i0132",
+    "name": "Accessories Product 132",
+    "category": "Accessories",
+    "price": 39.74,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=132&backgroundColor=f8fafc",
+    "popularity": 92,
+    "tags": [
+      "High Rated",
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0133",
+    "name": "Accessories Product 133",
+    "category": "Accessories",
+    "price": 41.92,
+    "rating": 3.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=133&backgroundColor=f8fafc",
+    "popularity": 132,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0134",
+    "name": "Networking Product 134",
+    "category": "Networking",
+    "price": 24.33,
+    "rating": 4.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=134&backgroundColor=f8fafc",
+    "popularity": 81,
+    "tags": [
+      "High Rated",
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0135",
+    "name": "Accessories Product 135",
+    "category": "Accessories",
+    "price": 25.59,
+    "rating": 4.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=135&backgroundColor=f8fafc",
+    "popularity": 94,
+    "tags": []
+  },
+  {
+    "id": "i0136",
+    "name": "Laptops Product 136",
+    "category": "Laptops",
+    "price": 372.95,
+    "rating": 4.5,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=136&backgroundColor=f8fafc",
+    "popularity": 128,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0137",
+    "name": "Laptops Product 137",
+    "category": "Laptops",
+    "price": 1005.78,
+    "rating": 4.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=137&backgroundColor=f8fafc",
+    "popularity": 302,
+    "tags": []
+  },
+  {
+    "id": "i0138",
+    "name": "Networking Product 138",
+    "category": "Networking",
+    "price": 27.95,
+    "rating": 3.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=138&backgroundColor=f8fafc",
+    "popularity": 532,
+    "tags": [
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0139",
+    "name": "Laptops Product 139",
+    "category": "Laptops",
+    "price": 500.61,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=139&backgroundColor=f8fafc",
+    "popularity": 700,
+    "tags": [
+      "Trending",
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0140",
+    "name": "Gaming Product 140",
+    "category": "Gaming",
+    "price": 95.38,
+    "rating": 4.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=140&backgroundColor=f8fafc",
+    "popularity": 158,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0141",
+    "name": "Cameras Product 141",
+    "category": "Cameras",
+    "price": 938.84,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=141&backgroundColor=f8fafc",
+    "popularity": 115,
+    "tags": [
+      "High Rated",
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0142",
+    "name": "Smart Home Product 142",
+    "category": "Smart Home",
+    "price": 105.82,
+    "rating": 4.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=142&backgroundColor=f8fafc",
+    "popularity": 583,
+    "tags": [
+      "High Rated",
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0143",
+    "name": "Smart Home Product 143",
+    "category": "Smart Home",
+    "price": 107.44,
+    "rating": 3.5,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=143&backgroundColor=f8fafc",
+    "popularity": 427,
+    "tags": []
+  },
+  {
+    "id": "i0144",
+    "name": "Gaming Product 144",
+    "category": "Gaming",
+    "price": 24.5,
+    "rating": 3.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=144&backgroundColor=f8fafc",
+    "popularity": 19,
+    "tags": []
+  },
+  {
+    "id": "i0145",
+    "name": "Cameras Product 145",
+    "category": "Cameras",
+    "price": 679.39,
+    "rating": 3.9,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=145&backgroundColor=f8fafc",
+    "popularity": 666,
+    "tags": [
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0146",
+    "name": "Wearables Product 146",
+    "category": "Wearables",
+    "price": 272.15,
+    "rating": 4.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=146&backgroundColor=f8fafc",
+    "popularity": 37,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0147",
+    "name": "Networking Product 147",
+    "category": "Networking",
+    "price": 116.67,
+    "rating": 3.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=147&backgroundColor=f8fafc",
+    "popularity": 217,
+    "tags": []
+  },
+  {
+    "id": "i0148",
+    "name": "Networking Product 148",
+    "category": "Networking",
+    "price": 9.99,
+    "rating": 4.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=148&backgroundColor=f8fafc",
+    "popularity": 135,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0149",
+    "name": "Accessories Product 149",
+    "category": "Accessories",
+    "price": 33.37,
+    "rating": 3.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=149&backgroundColor=f8fafc",
+    "popularity": 214,
+    "tags": []
+  },
+  {
+    "id": "i0150",
+    "name": "Smart Home Product 150",
+    "category": "Smart Home",
+    "price": 59.45,
+    "rating": 3.5,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=150&backgroundColor=f8fafc",
+    "popularity": 51,
+    "tags": []
+  },
+  {
+    "id": "i0151",
+    "name": "Smart Home Product 151",
+    "category": "Smart Home",
+    "price": 118.21,
+    "rating": 4.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=151&backgroundColor=f8fafc",
+    "popularity": 55,
+    "tags": []
+  },
+  {
+    "id": "i0152",
+    "name": "Accessories Product 152",
+    "category": "Accessories",
+    "price": 18.37,
+    "rating": 4.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=152&backgroundColor=f8fafc",
+    "popularity": 67,
+    "tags": []
+  },
+  {
+    "id": "i0153",
+    "name": "Wearables Product 153",
+    "category": "Wearables",
+    "price": 72.36,
+    "rating": 4.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=153&backgroundColor=f8fafc",
+    "popularity": 85,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0154",
+    "name": "Audio Product 154",
+    "category": "Audio",
+    "price": 198.24,
+    "rating": 3.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=154&backgroundColor=f8fafc",
+    "popularity": 153,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0155",
+    "name": "Smart Home Product 155",
+    "category": "Smart Home",
+    "price": 88.56,
+    "rating": 3.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=155&backgroundColor=f8fafc",
+    "popularity": 132,
+    "tags": []
+  },
+  {
+    "id": "i0156",
+    "name": "Smart Home Product 156",
+    "category": "Smart Home",
+    "price": 104.57,
+    "rating": 4.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=156&backgroundColor=f8fafc",
+    "popularity": 316,
+    "tags": []
+  },
+  {
+    "id": "i0157",
+    "name": "Audio Product 157",
+    "category": "Audio",
+    "price": 71.21,
+    "rating": 3.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=157&backgroundColor=f8fafc",
+    "popularity": 112,
+    "tags": []
+  },
+  {
+    "id": "i0158",
+    "name": "Accessories Product 158",
+    "category": "Accessories",
+    "price": 9.99,
+    "rating": 2.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=158&backgroundColor=f8fafc",
+    "popularity": 582,
+    "tags": [
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0159",
+    "name": "Audio Product 159",
+    "category": "Audio",
+    "price": 87.55,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=159&backgroundColor=f8fafc",
+    "popularity": 264,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0160",
+    "name": "Smart Home Product 160",
+    "category": "Smart Home",
+    "price": 203.16,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=160&backgroundColor=f8fafc",
+    "popularity": 454,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0161",
+    "name": "Accessories Product 161",
+    "category": "Accessories",
+    "price": 13.06,
+    "rating": 4.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=161&backgroundColor=f8fafc",
+    "popularity": 29,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0162",
+    "name": "Audio Product 162",
+    "category": "Audio",
+    "price": 62.18,
+    "rating": 4.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=162&backgroundColor=f8fafc",
+    "popularity": 35,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0163",
+    "name": "Wearables Product 163",
+    "category": "Wearables",
+    "price": 68.88,
+    "rating": 3.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=163&backgroundColor=f8fafc",
+    "popularity": 802,
+    "tags": [
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0164",
+    "name": "Accessories Product 164",
+    "category": "Accessories",
+    "price": 24.9,
+    "rating": 4.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=164&backgroundColor=f8fafc",
+    "popularity": 651,
+    "tags": [
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0165",
+    "name": "Smart Home Product 165",
+    "category": "Smart Home",
+    "price": 45.55,
+    "rating": 4.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=165&backgroundColor=f8fafc",
+    "popularity": 680,
+    "tags": [
+      "Trending",
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0166",
+    "name": "Gaming Product 166",
+    "category": "Gaming",
+    "price": 28.88,
+    "rating": 4.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=166&backgroundColor=f8fafc",
+    "popularity": 122,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0167",
+    "name": "Networking Product 167",
+    "category": "Networking",
+    "price": 37.03,
+    "rating": 3.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=167&backgroundColor=f8fafc",
+    "popularity": 374,
+    "tags": []
+  },
+  {
+    "id": "i0168",
+    "name": "Smart Home Product 168",
+    "category": "Smart Home",
+    "price": 24.06,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=168&backgroundColor=f8fafc",
+    "popularity": 260,
+    "tags": [
+      "High Rated",
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0169",
+    "name": "Laptops Product 169",
+    "category": "Laptops",
+    "price": 605.15,
+    "rating": 3.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=169&backgroundColor=f8fafc",
+    "popularity": 82,
+    "tags": []
+  },
+  {
+    "id": "i0170",
+    "name": "Networking Product 170",
+    "category": "Networking",
+    "price": 122.91,
+    "rating": 3.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=170&backgroundColor=f8fafc",
+    "popularity": 64,
+    "tags": []
+  },
+  {
+    "id": "i0171",
+    "name": "Smart Home Product 171",
+    "category": "Smart Home",
+    "price": 77.99,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=171&backgroundColor=f8fafc",
+    "popularity": 116,
+    "tags": []
+  },
+  {
+    "id": "i0172",
+    "name": "Networking Product 172",
+    "category": "Networking",
+    "price": 85.39,
+    "rating": 3.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=172&backgroundColor=f8fafc",
+    "popularity": 315,
+    "tags": []
+  },
+  {
+    "id": "i0173",
+    "name": "Cameras Product 173",
+    "category": "Cameras",
+    "price": 255.61,
+    "rating": 4.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=173&backgroundColor=f8fafc",
+    "popularity": 163,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0174",
+    "name": "Smart Home Product 174",
+    "category": "Smart Home",
+    "price": 13.22,
+    "rating": 4.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=174&backgroundColor=f8fafc",
+    "popularity": 255,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0175",
+    "name": "Accessories Product 175",
+    "category": "Accessories",
+    "price": 32.13,
+    "rating": 3.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=175&backgroundColor=f8fafc",
+    "popularity": 69,
+    "tags": []
+  },
+  {
+    "id": "i0176",
+    "name": "Accessories Product 176",
+    "category": "Accessories",
+    "price": 9.99,
+    "rating": 3.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=176&backgroundColor=f8fafc",
+    "popularity": 155,
+    "tags": []
+  },
+  {
+    "id": "i0177",
+    "name": "Cameras Product 177",
+    "category": "Cameras",
+    "price": 273.92,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=177&backgroundColor=f8fafc",
+    "popularity": 281,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0178",
+    "name": "Wearables Product 178",
+    "category": "Wearables",
+    "price": 145.04,
+    "rating": 3.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=178&backgroundColor=f8fafc",
+    "popularity": 44,
+    "tags": []
+  },
+  {
+    "id": "i0179",
+    "name": "Cameras Product 179",
+    "category": "Cameras",
+    "price": 511.85,
+    "rating": 3.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=179&backgroundColor=f8fafc",
+    "popularity": 62,
+    "tags": []
+  },
+  {
+    "id": "i0180",
+    "name": "Cameras Product 180",
+    "category": "Cameras",
+    "price": 751.57,
+    "rating": 3.9,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=180&backgroundColor=f8fafc",
+    "popularity": 83,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0181",
+    "name": "Networking Product 181",
+    "category": "Networking",
+    "price": 52.22,
+    "rating": 4.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=181&backgroundColor=f8fafc",
+    "popularity": 252,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0182",
+    "name": "Audio Product 182",
+    "category": "Audio",
+    "price": 9.99,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=182&backgroundColor=f8fafc",
+    "popularity": 66,
+    "tags": [
+      "High Rated",
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0183",
+    "name": "Accessories Product 183",
+    "category": "Accessories",
+    "price": 22.46,
+    "rating": 4.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=183&backgroundColor=f8fafc",
+    "popularity": 215,
+    "tags": []
+  },
+  {
+    "id": "i0184",
+    "name": "Audio Product 184",
+    "category": "Audio",
+    "price": 104.33,
+    "rating": 3.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=184&backgroundColor=f8fafc",
+    "popularity": 127,
+    "tags": []
+  },
+  {
+    "id": "i0185",
+    "name": "Cameras Product 185",
+    "category": "Cameras",
+    "price": 563.61,
+    "rating": 4.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=185&backgroundColor=f8fafc",
+    "popularity": 208,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0186",
+    "name": "Wearables Product 186",
+    "category": "Wearables",
+    "price": 113.43,
+    "rating": 3.9,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=186&backgroundColor=f8fafc",
+    "popularity": 96,
+    "tags": []
+  },
+  {
+    "id": "i0187",
+    "name": "Accessories Product 187",
+    "category": "Accessories",
+    "price": 19.74,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=187&backgroundColor=f8fafc",
+    "popularity": 198,
+    "tags": []
+  },
+  {
+    "id": "i0188",
+    "name": "Smart Home Product 188",
+    "category": "Smart Home",
+    "price": 114.84,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=188&backgroundColor=f8fafc",
+    "popularity": 107,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0189",
+    "name": "Smart Home Product 189",
+    "category": "Smart Home",
+    "price": 63.68,
+    "rating": 4.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=189&backgroundColor=f8fafc",
+    "popularity": 19,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0190",
+    "name": "Smart Home Product 190",
+    "category": "Smart Home",
+    "price": 9.99,
+    "rating": 3.5,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=190&backgroundColor=f8fafc",
+    "popularity": 104,
+    "tags": []
+  },
+  {
+    "id": "i0191",
+    "name": "Networking Product 191",
+    "category": "Networking",
+    "price": 220.59,
+    "rating": 4.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=191&backgroundColor=f8fafc",
+    "popularity": 205,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0192",
+    "name": "Laptops Product 192",
+    "category": "Laptops",
+    "price": 1131.76,
+    "rating": 4.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=192&backgroundColor=f8fafc",
+    "popularity": 16,
+    "tags": []
+  },
+  {
+    "id": "i0193",
+    "name": "Cameras Product 193",
+    "category": "Cameras",
+    "price": 692.72,
+    "rating": 4.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=193&backgroundColor=f8fafc",
+    "popularity": 33,
+    "tags": []
+  },
+  {
+    "id": "i0194",
+    "name": "Laptops Product 194",
+    "category": "Laptops",
+    "price": 935.4,
+    "rating": 4.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=194&backgroundColor=f8fafc",
+    "popularity": 97,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0195",
+    "name": "Gaming Product 195",
+    "category": "Gaming",
+    "price": 128.12,
+    "rating": 4.5,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=195&backgroundColor=f8fafc",
+    "popularity": 178,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0196",
+    "name": "Networking Product 196",
+    "category": "Networking",
+    "price": 92.44,
+    "rating": 4.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=196&backgroundColor=f8fafc",
+    "popularity": 63,
+    "tags": []
+  },
+  {
+    "id": "i0197",
+    "name": "Smart Home Product 197",
+    "category": "Smart Home",
+    "price": 45.76,
+    "rating": 4.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=197&backgroundColor=f8fafc",
+    "popularity": 159,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0198",
+    "name": "Accessories Product 198",
+    "category": "Accessories",
+    "price": 30.99,
+    "rating": 3.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=198&backgroundColor=f8fafc",
+    "popularity": 207,
+    "tags": []
+  },
+  {
+    "id": "i0199",
+    "name": "Networking Product 199",
+    "category": "Networking",
+    "price": 89.4,
+    "rating": 4.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=199&backgroundColor=f8fafc",
+    "popularity": 113,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0200",
+    "name": "Accessories Product 200",
+    "category": "Accessories",
+    "price": 19.45,
+    "rating": 3.5,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=200&backgroundColor=f8fafc",
+    "popularity": 216,
+    "tags": []
+  },
+  {
+    "id": "i0201",
+    "name": "Audio Product 201",
+    "category": "Audio",
+    "price": 53.89,
+    "rating": 4.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=201&backgroundColor=f8fafc",
+    "popularity": 354,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0202",
+    "name": "Audio Product 202",
+    "category": "Audio",
+    "price": 120.67,
+    "rating": 4.9,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=202&backgroundColor=f8fafc",
+    "popularity": 969,
+    "tags": [
+      "High Rated",
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0203",
+    "name": "Accessories Product 203",
+    "category": "Accessories",
+    "price": 9.99,
+    "rating": 3.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=203&backgroundColor=f8fafc",
+    "popularity": 25,
+    "tags": []
+  },
+  {
+    "id": "i0204",
+    "name": "Smart Home Product 204",
+    "category": "Smart Home",
+    "price": 106.17,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=204&backgroundColor=f8fafc",
+    "popularity": 140,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0205",
+    "name": "Laptops Product 205",
+    "category": "Laptops",
+    "price": 349.8,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=205&backgroundColor=f8fafc",
+    "popularity": 1712,
+    "tags": [
+      "Trending",
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0206",
+    "name": "Cameras Product 206",
+    "category": "Cameras",
+    "price": 527.35,
+    "rating": 4.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=206&backgroundColor=f8fafc",
+    "popularity": 306,
+    "tags": []
+  },
+  {
+    "id": "i0207",
+    "name": "Networking Product 207",
+    "category": "Networking",
+    "price": 133.43,
+    "rating": 4.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=207&backgroundColor=f8fafc",
+    "popularity": 67,
+    "tags": []
+  },
+  {
+    "id": "i0208",
+    "name": "Networking Product 208",
+    "category": "Networking",
+    "price": 232.92,
+    "rating": 4.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=208&backgroundColor=f8fafc",
+    "popularity": 569,
+    "tags": [
+      "Trending",
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0209",
+    "name": "Smart Home Product 209",
+    "category": "Smart Home",
+    "price": 59.55,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=209&backgroundColor=f8fafc",
+    "popularity": 55,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0210",
+    "name": "Cameras Product 210",
+    "category": "Cameras",
+    "price": 513.93,
+    "rating": 4.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=210&backgroundColor=f8fafc",
+    "popularity": 443,
+    "tags": []
+  },
+  {
+    "id": "i0211",
+    "name": "Audio Product 211",
+    "category": "Audio",
+    "price": 176.48,
+    "rating": 3.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=211&backgroundColor=f8fafc",
+    "popularity": 126,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0212",
+    "name": "Laptops Product 212",
+    "category": "Laptops",
+    "price": 395.16,
+    "rating": 3.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=212&backgroundColor=f8fafc",
+    "popularity": 28,
+    "tags": []
+  },
+  {
+    "id": "i0213",
+    "name": "Cameras Product 213",
+    "category": "Cameras",
+    "price": 518.33,
+    "rating": 4.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=213&backgroundColor=f8fafc",
+    "popularity": 40,
+    "tags": []
+  },
+  {
+    "id": "i0214",
+    "name": "Audio Product 214",
+    "category": "Audio",
+    "price": 83.21,
+    "rating": 3.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=214&backgroundColor=f8fafc",
+    "popularity": 787,
+    "tags": [
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0215",
+    "name": "Cameras Product 215",
+    "category": "Cameras",
+    "price": 124.21,
+    "rating": 3.9,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=215&backgroundColor=f8fafc",
+    "popularity": 116,
+    "tags": []
+  },
+  {
+    "id": "i0216",
+    "name": "Gaming Product 216",
+    "category": "Gaming",
+    "price": 9.99,
+    "rating": 3.9,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=216&backgroundColor=f8fafc",
+    "popularity": 140,
+    "tags": []
+  },
+  {
+    "id": "i0217",
+    "name": "Networking Product 217",
+    "category": "Networking",
+    "price": 161.77,
+    "rating": 4.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=217&backgroundColor=f8fafc",
+    "popularity": 942,
+    "tags": [
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0218",
+    "name": "Gaming Product 218",
+    "category": "Gaming",
+    "price": 51.93,
+    "rating": 4.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=218&backgroundColor=f8fafc",
+    "popularity": 49,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0219",
+    "name": "Cameras Product 219",
+    "category": "Cameras",
+    "price": 514.8,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=219&backgroundColor=f8fafc",
+    "popularity": 150,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0220",
+    "name": "Networking Product 220",
+    "category": "Networking",
+    "price": 131.89,
+    "rating": 4.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=220&backgroundColor=f8fafc",
+    "popularity": 128,
+    "tags": []
+  },
+  {
+    "id": "i0221",
+    "name": "Laptops Product 221",
+    "category": "Laptops",
+    "price": 581.26,
+    "rating": 3.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=221&backgroundColor=f8fafc",
+    "popularity": 143,
+    "tags": []
+  },
+  {
+    "id": "i0222",
+    "name": "Smart Home Product 222",
+    "category": "Smart Home",
+    "price": 51.49,
+    "rating": 3.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=222&backgroundColor=f8fafc",
+    "popularity": 165,
+    "tags": []
+  },
+  {
+    "id": "i0223",
+    "name": "Gaming Product 223",
+    "category": "Gaming",
+    "price": 105.12,
+    "rating": 3.9,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=223&backgroundColor=f8fafc",
+    "popularity": 10,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0224",
+    "name": "Smart Home Product 224",
+    "category": "Smart Home",
+    "price": 129.84,
+    "rating": 4.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=224&backgroundColor=f8fafc",
+    "popularity": 18,
+    "tags": [
+      "High Rated",
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0225",
+    "name": "Audio Product 225",
+    "category": "Audio",
+    "price": 81.43,
+    "rating": 3.9,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=225&backgroundColor=f8fafc",
+    "popularity": 36,
+    "tags": []
+  },
+  {
+    "id": "i0226",
+    "name": "Audio Product 226",
+    "category": "Audio",
+    "price": 44.47,
+    "rating": 3.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=226&backgroundColor=f8fafc",
+    "popularity": 856,
+    "tags": [
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0227",
+    "name": "Wearables Product 227",
+    "category": "Wearables",
+    "price": 245.37,
+    "rating": 4.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=227&backgroundColor=f8fafc",
+    "popularity": 305,
+    "tags": [
+      "High Rated",
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0228",
+    "name": "Audio Product 228",
+    "category": "Audio",
+    "price": 73.77,
+    "rating": 3.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=228&backgroundColor=f8fafc",
+    "popularity": 242,
+    "tags": []
+  },
+  {
+    "id": "i0229",
+    "name": "Audio Product 229",
+    "category": "Audio",
+    "price": 135.65,
+    "rating": 3.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=229&backgroundColor=f8fafc",
+    "popularity": 116,
+    "tags": []
+  },
+  {
+    "id": "i0230",
+    "name": "Networking Product 230",
+    "category": "Networking",
+    "price": 162.66,
+    "rating": 3.9,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=230&backgroundColor=f8fafc",
+    "popularity": 231,
+    "tags": []
+  },
+  {
+    "id": "i0231",
+    "name": "Laptops Product 231",
+    "category": "Laptops",
+    "price": 1263.73,
+    "rating": 3.9,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=231&backgroundColor=f8fafc",
+    "popularity": 50,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0232",
+    "name": "Audio Product 232",
+    "category": "Audio",
+    "price": 129.66,
+    "rating": 4.5,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=232&backgroundColor=f8fafc",
+    "popularity": 108,
+    "tags": []
+  },
+  {
+    "id": "i0233",
+    "name": "Accessories Product 233",
+    "category": "Accessories",
+    "price": 9.99,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=233&backgroundColor=f8fafc",
+    "popularity": 373,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0234",
+    "name": "Laptops Product 234",
+    "category": "Laptops",
+    "price": 590.91,
+    "rating": 4.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=234&backgroundColor=f8fafc",
+    "popularity": 423,
+    "tags": []
+  },
+  {
+    "id": "i0235",
+    "name": "Accessories Product 235",
+    "category": "Accessories",
+    "price": 9.99,
+    "rating": 3.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=235&backgroundColor=f8fafc",
+    "popularity": 31,
+    "tags": []
+  },
+  {
+    "id": "i0236",
+    "name": "Accessories Product 236",
+    "category": "Accessories",
+    "price": 9.99,
+    "rating": 4.5,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=236&backgroundColor=f8fafc",
+    "popularity": 858,
+    "tags": [
+      "Trending",
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0237",
+    "name": "Smart Home Product 237",
+    "category": "Smart Home",
+    "price": 147.86,
+    "rating": 2.9,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=237&backgroundColor=f8fafc",
+    "popularity": 183,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0238",
+    "name": "Cameras Product 238",
+    "category": "Cameras",
+    "price": 363.77,
+    "rating": 4.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=238&backgroundColor=f8fafc",
+    "popularity": 221,
+    "tags": []
+  },
+  {
+    "id": "i0239",
+    "name": "Accessories Product 239",
+    "category": "Accessories",
+    "price": 38.79,
+    "rating": 4.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=239&backgroundColor=f8fafc",
+    "popularity": 166,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0240",
+    "name": "Smart Home Product 240",
+    "category": "Smart Home",
+    "price": 65.46,
+    "rating": 4.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=240&backgroundColor=f8fafc",
+    "popularity": 140,
+    "tags": []
+  },
+  {
+    "id": "i0241",
+    "name": "Audio Product 241",
+    "category": "Audio",
+    "price": 14.49,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=241&backgroundColor=f8fafc",
+    "popularity": 38,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0242",
+    "name": "Accessories Product 242",
+    "category": "Accessories",
+    "price": 27.14,
+    "rating": 4.5,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=242&backgroundColor=f8fafc",
+    "popularity": 123,
+    "tags": []
+  },
+  {
+    "id": "i0243",
+    "name": "Cameras Product 243",
+    "category": "Cameras",
+    "price": 586.9,
+    "rating": 4.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=243&backgroundColor=f8fafc",
+    "popularity": 86,
+    "tags": []
+  },
+  {
+    "id": "i0244",
+    "name": "Wearables Product 244",
+    "category": "Wearables",
+    "price": 164.69,
+    "rating": 3.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=244&backgroundColor=f8fafc",
+    "popularity": 55,
+    "tags": []
+  },
+  {
+    "id": "i0245",
+    "name": "Gaming Product 245",
+    "category": "Gaming",
+    "price": 9.99,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=245&backgroundColor=f8fafc",
+    "popularity": 415,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0246",
+    "name": "Smart Home Product 246",
+    "category": "Smart Home",
+    "price": 90.24,
+    "rating": 4.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=246&backgroundColor=f8fafc",
+    "popularity": 396,
+    "tags": []
+  },
+  {
+    "id": "i0247",
+    "name": "Wearables Product 247",
+    "category": "Wearables",
+    "price": 226.08,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=247&backgroundColor=f8fafc",
+    "popularity": 23,
+    "tags": [
+      "High Rated",
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0248",
+    "name": "Smart Home Product 248",
+    "category": "Smart Home",
+    "price": 55.01,
+    "rating": 3.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=248&backgroundColor=f8fafc",
+    "popularity": 152,
+    "tags": []
+  },
+  {
+    "id": "i0249",
+    "name": "Gaming Product 249",
+    "category": "Gaming",
+    "price": 38.23,
+    "rating": 4.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=249&backgroundColor=f8fafc",
+    "popularity": 178,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0250",
+    "name": "Cameras Product 250",
+    "category": "Cameras",
+    "price": 347.12,
+    "rating": 3.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=250&backgroundColor=f8fafc",
+    "popularity": 36,
+    "tags": []
+  },
+  {
+    "id": "i0251",
+    "name": "Laptops Product 251",
+    "category": "Laptops",
+    "price": 259.33,
+    "rating": 3.5,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=251&backgroundColor=f8fafc",
+    "popularity": 55,
+    "tags": []
+  },
+  {
+    "id": "i0252",
+    "name": "Gaming Product 252",
+    "category": "Gaming",
+    "price": 31.52,
+    "rating": 4.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=252&backgroundColor=f8fafc",
+    "popularity": 2063,
+    "tags": [
+      "High Rated",
+      "Trending",
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0253",
+    "name": "Networking Product 253",
+    "category": "Networking",
+    "price": 131.09,
+    "rating": 4.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=253&backgroundColor=f8fafc",
+    "popularity": 62,
+    "tags": []
+  },
+  {
+    "id": "i0254",
+    "name": "Wearables Product 254",
+    "category": "Wearables",
+    "price": 106.83,
+    "rating": 4.5,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=254&backgroundColor=f8fafc",
+    "popularity": 167,
+    "tags": []
+  },
+  {
+    "id": "i0255",
+    "name": "Accessories Product 255",
+    "category": "Accessories",
+    "price": 23.8,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=255&backgroundColor=f8fafc",
+    "popularity": 468,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0256",
+    "name": "Audio Product 256",
+    "category": "Audio",
+    "price": 98.25,
+    "rating": 3.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=256&backgroundColor=f8fafc",
+    "popularity": 872,
+    "tags": [
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0257",
+    "name": "Networking Product 257",
+    "category": "Networking",
+    "price": 228.75,
+    "rating": 3.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=257&backgroundColor=f8fafc",
+    "popularity": 301,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0258",
+    "name": "Accessories Product 258",
+    "category": "Accessories",
+    "price": 32.91,
+    "rating": 3.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=258&backgroundColor=f8fafc",
+    "popularity": 392,
+    "tags": []
+  },
+  {
+    "id": "i0259",
+    "name": "Accessories Product 259",
+    "category": "Accessories",
+    "price": 9.99,
+    "rating": 4.5,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=259&backgroundColor=f8fafc",
+    "popularity": 71,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0260",
+    "name": "Smart Home Product 260",
+    "category": "Smart Home",
+    "price": 77.02,
+    "rating": 4.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=260&backgroundColor=f8fafc",
+    "popularity": 276,
+    "tags": []
+  },
+  {
+    "id": "i0261",
+    "name": "Gaming Product 261",
+    "category": "Gaming",
+    "price": 19.94,
+    "rating": 4.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=261&backgroundColor=f8fafc",
+    "popularity": 217,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0262",
+    "name": "Laptops Product 262",
+    "category": "Laptops",
+    "price": 1023.92,
+    "rating": 4.5,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=262&backgroundColor=f8fafc",
+    "popularity": 437,
+    "tags": []
+  },
+  {
+    "id": "i0263",
+    "name": "Wearables Product 263",
+    "category": "Wearables",
+    "price": 184.44,
+    "rating": 4.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=263&backgroundColor=f8fafc",
+    "popularity": 138,
+    "tags": []
+  },
+  {
+    "id": "i0264",
+    "name": "Accessories Product 264",
+    "category": "Accessories",
+    "price": 30.37,
+    "rating": 3.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=264&backgroundColor=f8fafc",
+    "popularity": 182,
+    "tags": []
+  },
+  {
+    "id": "i0265",
+    "name": "Smart Home Product 265",
+    "category": "Smart Home",
+    "price": 28.93,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=265&backgroundColor=f8fafc",
+    "popularity": 50,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0266",
+    "name": "Wearables Product 266",
+    "category": "Wearables",
+    "price": 147.03,
+    "rating": 4.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=266&backgroundColor=f8fafc",
+    "popularity": 293,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0267",
+    "name": "Gaming Product 267",
+    "category": "Gaming",
+    "price": 60.89,
+    "rating": 4.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=267&backgroundColor=f8fafc",
+    "popularity": 379,
+    "tags": []
+  },
+  {
+    "id": "i0268",
+    "name": "Laptops Product 268",
+    "category": "Laptops",
+    "price": 838.45,
+    "rating": 3.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=268&backgroundColor=f8fafc",
+    "popularity": 93,
+    "tags": []
+  },
+  {
+    "id": "i0269",
+    "name": "Networking Product 269",
+    "category": "Networking",
+    "price": 101.45,
+    "rating": 3.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=269&backgroundColor=f8fafc",
+    "popularity": 185,
+    "tags": []
+  },
+  {
+    "id": "i0270",
+    "name": "Gaming Product 270",
+    "category": "Gaming",
+    "price": 97.67,
+    "rating": 3.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=270&backgroundColor=f8fafc",
+    "popularity": 60,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0271",
+    "name": "Audio Product 271",
+    "category": "Audio",
+    "price": 78.01,
+    "rating": 4.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=271&backgroundColor=f8fafc",
+    "popularity": 630,
+    "tags": [
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0272",
+    "name": "Gaming Product 272",
+    "category": "Gaming",
+    "price": 90.96,
+    "rating": 4.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=272&backgroundColor=f8fafc",
+    "popularity": 33,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0273",
+    "name": "Accessories Product 273",
+    "category": "Accessories",
+    "price": 36.12,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=273&backgroundColor=f8fafc",
+    "popularity": 161,
+    "tags": []
+  },
+  {
+    "id": "i0274",
+    "name": "Laptops Product 274",
+    "category": "Laptops",
+    "price": 593.08,
+    "rating": 4.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=274&backgroundColor=f8fafc",
+    "popularity": 607,
+    "tags": [
+      "High Rated",
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0275",
+    "name": "Gaming Product 275",
+    "category": "Gaming",
+    "price": 49.11,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=275&backgroundColor=f8fafc",
+    "popularity": 95,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0276",
+    "name": "Accessories Product 276",
+    "category": "Accessories",
+    "price": 44.74,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=276&backgroundColor=f8fafc",
+    "popularity": 87,
+    "tags": [
+      "High Rated",
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0277",
+    "name": "Accessories Product 277",
+    "category": "Accessories",
+    "price": 21.48,
+    "rating": 3.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=277&backgroundColor=f8fafc",
+    "popularity": 38,
+    "tags": []
+  },
+  {
+    "id": "i0278",
+    "name": "Laptops Product 278",
+    "category": "Laptops",
+    "price": 398.34,
+    "rating": 3.5,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=278&backgroundColor=f8fafc",
+    "popularity": 68,
+    "tags": []
+  },
+  {
+    "id": "i0279",
+    "name": "Gaming Product 279",
+    "category": "Gaming",
+    "price": 67.03,
+    "rating": 4.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=279&backgroundColor=f8fafc",
+    "popularity": 699,
+    "tags": [
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0280",
+    "name": "Gaming Product 280",
+    "category": "Gaming",
+    "price": 89.53,
+    "rating": 3.5,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=280&backgroundColor=f8fafc",
+    "popularity": 119,
+    "tags": []
+  },
+  {
+    "id": "i0281",
+    "name": "Smart Home Product 281",
+    "category": "Smart Home",
+    "price": 106.99,
+    "rating": 4.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=281&backgroundColor=f8fafc",
+    "popularity": 48,
+    "tags": []
+  },
+  {
+    "id": "i0282",
+    "name": "Wearables Product 282",
+    "category": "Wearables",
+    "price": 162.48,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=282&backgroundColor=f8fafc",
+    "popularity": 242,
+    "tags": []
+  },
+  {
+    "id": "i0283",
+    "name": "Smart Home Product 283",
+    "category": "Smart Home",
+    "price": 178.21,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=283&backgroundColor=f8fafc",
+    "popularity": 78,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0284",
+    "name": "Gaming Product 284",
+    "category": "Gaming",
+    "price": 41.31,
+    "rating": 3.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=284&backgroundColor=f8fafc",
+    "popularity": 85,
+    "tags": []
+  },
+  {
+    "id": "i0285",
+    "name": "Networking Product 285",
+    "category": "Networking",
+    "price": 191.34,
+    "rating": 3.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=285&backgroundColor=f8fafc",
+    "popularity": 614,
+    "tags": [
+      "Trending",
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0286",
+    "name": "Gaming Product 286",
+    "category": "Gaming",
+    "price": 35.03,
+    "rating": 3.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=286&backgroundColor=f8fafc",
+    "popularity": 237,
+    "tags": []
+  },
+  {
+    "id": "i0287",
+    "name": "Audio Product 287",
+    "category": "Audio",
+    "price": 131.65,
+    "rating": 3.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=287&backgroundColor=f8fafc",
+    "popularity": 181,
+    "tags": []
+  },
+  {
+    "id": "i0288",
+    "name": "Accessories Product 288",
+    "category": "Accessories",
+    "price": 44.34,
+    "rating": 3.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=288&backgroundColor=f8fafc",
+    "popularity": 894,
+    "tags": [
+      "Trending",
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0289",
+    "name": "Cameras Product 289",
+    "category": "Cameras",
+    "price": 403.07,
+    "rating": 3.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=289&backgroundColor=f8fafc",
+    "popularity": 197,
+    "tags": []
+  },
+  {
+    "id": "i0290",
+    "name": "Gaming Product 290",
+    "category": "Gaming",
+    "price": 79.76,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=290&backgroundColor=f8fafc",
+    "popularity": 1107,
+    "tags": [
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0291",
+    "name": "Audio Product 291",
+    "category": "Audio",
+    "price": 60.09,
+    "rating": 4.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=291&backgroundColor=f8fafc",
+    "popularity": 37,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0292",
+    "name": "Audio Product 292",
+    "category": "Audio",
+    "price": 98.34,
+    "rating": 3.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=292&backgroundColor=f8fafc",
+    "popularity": 892,
+    "tags": [
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0293",
+    "name": "Wearables Product 293",
+    "category": "Wearables",
+    "price": 166.78,
+    "rating": 3.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=293&backgroundColor=f8fafc",
+    "popularity": 145,
+    "tags": []
+  },
+  {
+    "id": "i0294",
+    "name": "Laptops Product 294",
+    "category": "Laptops",
+    "price": 1810.77,
+    "rating": 4.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=294&backgroundColor=f8fafc",
+    "popularity": 87,
+    "tags": [
+      "High Rated",
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0295",
+    "name": "Gaming Product 295",
+    "category": "Gaming",
+    "price": 91.32,
+    "rating": 3.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=295&backgroundColor=f8fafc",
+    "popularity": 293,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0296",
+    "name": "Laptops Product 296",
+    "category": "Laptops",
+    "price": 1033.57,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=296&backgroundColor=f8fafc",
+    "popularity": 103,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0297",
+    "name": "Networking Product 297",
+    "category": "Networking",
+    "price": 186.52,
+    "rating": 4.5,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=297&backgroundColor=f8fafc",
+    "popularity": 337,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0298",
+    "name": "Cameras Product 298",
+    "category": "Cameras",
+    "price": 766.67,
+    "rating": 4.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=298&backgroundColor=f8fafc",
+    "popularity": 477,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0299",
+    "name": "Audio Product 299",
+    "category": "Audio",
+    "price": 132.44,
+    "rating": 4.9,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=299&backgroundColor=f8fafc",
+    "popularity": 125,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0300",
+    "name": "Accessories Product 300",
+    "category": "Accessories",
+    "price": 40.08,
+    "rating": 4.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=300&backgroundColor=f8fafc",
+    "popularity": 65,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0301",
+    "name": "Accessories Product 301",
+    "category": "Accessories",
+    "price": 20.08,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=301&backgroundColor=f8fafc",
+    "popularity": 152,
+    "tags": []
+  },
+  {
+    "id": "i0302",
+    "name": "Laptops Product 302",
+    "category": "Laptops",
+    "price": 876.44,
+    "rating": 4.9,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=302&backgroundColor=f8fafc",
+    "popularity": 155,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0303",
+    "name": "Audio Product 303",
+    "category": "Audio",
+    "price": 137.31,
+    "rating": 3.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=303&backgroundColor=f8fafc",
+    "popularity": 283,
+    "tags": []
+  },
+  {
+    "id": "i0304",
+    "name": "Wearables Product 304",
+    "category": "Wearables",
+    "price": 126.92,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=304&backgroundColor=f8fafc",
+    "popularity": 184,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0305",
+    "name": "Laptops Product 305",
+    "category": "Laptops",
+    "price": 1430.98,
+    "rating": 4.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=305&backgroundColor=f8fafc",
+    "popularity": 134,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0306",
+    "name": "Cameras Product 306",
+    "category": "Cameras",
+    "price": 651.97,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=306&backgroundColor=f8fafc",
+    "popularity": 178,
+    "tags": []
+  },
+  {
+    "id": "i0307",
+    "name": "Laptops Product 307",
+    "category": "Laptops",
+    "price": 877.64,
+    "rating": 3.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=307&backgroundColor=f8fafc",
+    "popularity": 434,
+    "tags": []
+  },
+  {
+    "id": "i0308",
+    "name": "Audio Product 308",
+    "category": "Audio",
+    "price": 106.65,
+    "rating": 3.5,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=308&backgroundColor=f8fafc",
+    "popularity": 73,
+    "tags": []
+  },
+  {
+    "id": "i0309",
+    "name": "Gaming Product 309",
+    "category": "Gaming",
+    "price": 14.3,
+    "rating": 4.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=309&backgroundColor=f8fafc",
+    "popularity": 84,
+    "tags": [
+      "High Rated",
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0310",
+    "name": "Wearables Product 310",
+    "category": "Wearables",
+    "price": 267.41,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=310&backgroundColor=f8fafc",
+    "popularity": 138,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0311",
+    "name": "Audio Product 311",
+    "category": "Audio",
+    "price": 194.06,
+    "rating": 3.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=311&backgroundColor=f8fafc",
+    "popularity": 34,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0312",
+    "name": "Wearables Product 312",
+    "category": "Wearables",
+    "price": 183.0,
+    "rating": 2.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=312&backgroundColor=f8fafc",
+    "popularity": 89,
+    "tags": []
+  },
+  {
+    "id": "i0313",
+    "name": "Smart Home Product 313",
+    "category": "Smart Home",
+    "price": 108.33,
+    "rating": 3.5,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=313&backgroundColor=f8fafc",
+    "popularity": 189,
+    "tags": []
+  },
+  {
+    "id": "i0314",
+    "name": "Smart Home Product 314",
+    "category": "Smart Home",
+    "price": 28.79,
+    "rating": 3.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=314&backgroundColor=f8fafc",
+    "popularity": 355,
+    "tags": []
+  },
+  {
+    "id": "i0315",
+    "name": "Accessories Product 315",
+    "category": "Accessories",
+    "price": 23.76,
+    "rating": 4.5,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=315&backgroundColor=f8fafc",
+    "popularity": 940,
+    "tags": [
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0316",
+    "name": "Wearables Product 316",
+    "category": "Wearables",
+    "price": 35.59,
+    "rating": 3.5,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=316&backgroundColor=f8fafc",
+    "popularity": 74,
+    "tags": []
+  },
+  {
+    "id": "i0317",
+    "name": "Cameras Product 317",
+    "category": "Cameras",
+    "price": 560.83,
+    "rating": 4.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=317&backgroundColor=f8fafc",
+    "popularity": 116,
+    "tags": []
+  },
+  {
+    "id": "i0318",
+    "name": "Laptops Product 318",
+    "category": "Laptops",
+    "price": 299.38,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=318&backgroundColor=f8fafc",
+    "popularity": 628,
+    "tags": [
+      "Trending",
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0319",
+    "name": "Smart Home Product 319",
+    "category": "Smart Home",
+    "price": 124.69,
+    "rating": 4.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=319&backgroundColor=f8fafc",
+    "popularity": 209,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0320",
+    "name": "Laptops Product 320",
+    "category": "Laptops",
+    "price": 1027.91,
+    "rating": 4.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=320&backgroundColor=f8fafc",
+    "popularity": 232,
+    "tags": []
+  },
+  {
+    "id": "i0321",
+    "name": "Laptops Product 321",
+    "category": "Laptops",
+    "price": 1331.66,
+    "rating": 4.5,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=321&backgroundColor=f8fafc",
+    "popularity": 180,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0322",
+    "name": "Cameras Product 322",
+    "category": "Cameras",
+    "price": 477.57,
+    "rating": 4.5,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=322&backgroundColor=f8fafc",
+    "popularity": 626,
+    "tags": [
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0323",
+    "name": "Audio Product 323",
+    "category": "Audio",
+    "price": 190.05,
+    "rating": 3.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=323&backgroundColor=f8fafc",
+    "popularity": 142,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0324",
+    "name": "Laptops Product 324",
+    "category": "Laptops",
+    "price": 851.24,
+    "rating": 3.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=324&backgroundColor=f8fafc",
+    "popularity": 75,
+    "tags": []
+  },
+  {
+    "id": "i0325",
+    "name": "Wearables Product 325",
+    "category": "Wearables",
+    "price": 101.05,
+    "rating": 4.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=325&backgroundColor=f8fafc",
+    "popularity": 94,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0326",
+    "name": "Cameras Product 326",
+    "category": "Cameras",
+    "price": 386.92,
+    "rating": 3.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=326&backgroundColor=f8fafc",
+    "popularity": 13,
+    "tags": []
+  },
+  {
+    "id": "i0327",
+    "name": "Smart Home Product 327",
+    "category": "Smart Home",
+    "price": 110.42,
+    "rating": 3.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=327&backgroundColor=f8fafc",
+    "popularity": 325,
+    "tags": []
+  },
+  {
+    "id": "i0328",
+    "name": "Gaming Product 328",
+    "category": "Gaming",
+    "price": 30.99,
+    "rating": 4.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=328&backgroundColor=f8fafc",
+    "popularity": 141,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0329",
+    "name": "Laptops Product 329",
+    "category": "Laptops",
+    "price": 336.65,
+    "rating": 4.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=329&backgroundColor=f8fafc",
+    "popularity": 667,
+    "tags": [
+      "Trending",
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0330",
+    "name": "Accessories Product 330",
+    "category": "Accessories",
+    "price": 22.24,
+    "rating": 4.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=330&backgroundColor=f8fafc",
+    "popularity": 152,
+    "tags": []
+  },
+  {
+    "id": "i0331",
+    "name": "Cameras Product 331",
+    "category": "Cameras",
+    "price": 9.99,
+    "rating": 4.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=331&backgroundColor=f8fafc",
+    "popularity": 115,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0332",
+    "name": "Audio Product 332",
+    "category": "Audio",
+    "price": 49.92,
+    "rating": 3.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=332&backgroundColor=f8fafc",
+    "popularity": 112,
+    "tags": []
+  },
+  {
+    "id": "i0333",
+    "name": "Networking Product 333",
+    "category": "Networking",
+    "price": 158.45,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=333&backgroundColor=f8fafc",
+    "popularity": 83,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0334",
+    "name": "Smart Home Product 334",
+    "category": "Smart Home",
+    "price": 135.97,
+    "rating": 4.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=334&backgroundColor=f8fafc",
+    "popularity": 374,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0335",
+    "name": "Smart Home Product 335",
+    "category": "Smart Home",
+    "price": 54.12,
+    "rating": 4.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=335&backgroundColor=f8fafc",
+    "popularity": 298,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0336",
+    "name": "Networking Product 336",
+    "category": "Networking",
+    "price": 173.71,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=336&backgroundColor=f8fafc",
+    "popularity": 280,
+    "tags": []
+  },
+  {
+    "id": "i0337",
+    "name": "Wearables Product 337",
+    "category": "Wearables",
+    "price": 109.86,
+    "rating": 4.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=337&backgroundColor=f8fafc",
+    "popularity": 554,
+    "tags": [
+      "High Rated",
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0338",
+    "name": "Gaming Product 338",
+    "category": "Gaming",
+    "price": 122.26,
+    "rating": 4.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=338&backgroundColor=f8fafc",
+    "popularity": 74,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0339",
+    "name": "Smart Home Product 339",
+    "category": "Smart Home",
+    "price": 87.92,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=339&backgroundColor=f8fafc",
+    "popularity": 77,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0340",
+    "name": "Smart Home Product 340",
+    "category": "Smart Home",
+    "price": 67.19,
+    "rating": 3.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=340&backgroundColor=f8fafc",
+    "popularity": 226,
+    "tags": []
+  },
+  {
+    "id": "i0341",
+    "name": "Audio Product 341",
+    "category": "Audio",
+    "price": 71.31,
+    "rating": 4.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=341&backgroundColor=f8fafc",
+    "popularity": 144,
+    "tags": []
+  },
+  {
+    "id": "i0342",
+    "name": "Smart Home Product 342",
+    "category": "Smart Home",
+    "price": 149.1,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=342&backgroundColor=f8fafc",
+    "popularity": 229,
+    "tags": [
+      "High Rated",
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0343",
+    "name": "Cameras Product 343",
+    "category": "Cameras",
+    "price": 530.01,
+    "rating": 4.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=343&backgroundColor=f8fafc",
+    "popularity": 274,
+    "tags": []
+  },
+  {
+    "id": "i0344",
+    "name": "Wearables Product 344",
+    "category": "Wearables",
+    "price": 130.7,
+    "rating": 3.5,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=344&backgroundColor=f8fafc",
+    "popularity": 27,
+    "tags": []
+  },
+  {
+    "id": "i0345",
+    "name": "Gaming Product 345",
+    "category": "Gaming",
+    "price": 79.42,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=345&backgroundColor=f8fafc",
+    "popularity": 91,
+    "tags": []
+  },
+  {
+    "id": "i0346",
+    "name": "Accessories Product 346",
+    "category": "Accessories",
+    "price": 9.99,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=346&backgroundColor=f8fafc",
+    "popularity": 34,
+    "tags": [
+      "High Rated",
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0347",
+    "name": "Gaming Product 347",
+    "category": "Gaming",
+    "price": 91.41,
+    "rating": 4.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=347&backgroundColor=f8fafc",
+    "popularity": 799,
+    "tags": [
+      "Trending",
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0348",
+    "name": "Wearables Product 348",
+    "category": "Wearables",
+    "price": 230.9,
+    "rating": 3.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=348&backgroundColor=f8fafc",
+    "popularity": 142,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0349",
+    "name": "Cameras Product 349",
+    "category": "Cameras",
+    "price": 720.91,
+    "rating": 4.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=349&backgroundColor=f8fafc",
+    "popularity": 284,
+    "tags": []
+  },
+  {
+    "id": "i0350",
+    "name": "Wearables Product 350",
+    "category": "Wearables",
+    "price": 260.74,
+    "rating": 3.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=350&backgroundColor=f8fafc",
+    "popularity": 589,
+    "tags": [
+      "Trending",
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0351",
+    "name": "Audio Product 351",
+    "category": "Audio",
+    "price": 119.79,
+    "rating": 3.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=351&backgroundColor=f8fafc",
+    "popularity": 243,
+    "tags": []
+  },
+  {
+    "id": "i0352",
+    "name": "Accessories Product 352",
+    "category": "Accessories",
+    "price": 18.12,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=352&backgroundColor=f8fafc",
+    "popularity": 75,
+    "tags": []
+  },
+  {
+    "id": "i0353",
+    "name": "Gaming Product 353",
+    "category": "Gaming",
+    "price": 95.18,
+    "rating": 4.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=353&backgroundColor=f8fafc",
+    "popularity": 255,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0354",
+    "name": "Laptops Product 354",
+    "category": "Laptops",
+    "price": 1108.68,
+    "rating": 3.9,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=354&backgroundColor=f8fafc",
+    "popularity": 10,
+    "tags": []
+  },
+  {
+    "id": "i0355",
+    "name": "Gaming Product 355",
+    "category": "Gaming",
+    "price": 9.99,
+    "rating": 4.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=355&backgroundColor=f8fafc",
+    "popularity": 103,
+    "tags": [
+      "High Rated",
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0356",
+    "name": "Audio Product 356",
+    "category": "Audio",
+    "price": 35.27,
+    "rating": 3.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=356&backgroundColor=f8fafc",
+    "popularity": 473,
+    "tags": []
+  },
+  {
+    "id": "i0357",
+    "name": "Accessories Product 357",
+    "category": "Accessories",
+    "price": 29.33,
+    "rating": 3.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=357&backgroundColor=f8fafc",
+    "popularity": 141,
+    "tags": []
+  },
+  {
+    "id": "i0358",
+    "name": "Cameras Product 358",
+    "category": "Cameras",
+    "price": 519.21,
+    "rating": 4.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=358&backgroundColor=f8fafc",
+    "popularity": 41,
+    "tags": []
+  },
+  {
+    "id": "i0359",
+    "name": "Wearables Product 359",
+    "category": "Wearables",
+    "price": 112.97,
+    "rating": 4.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=359&backgroundColor=f8fafc",
+    "popularity": 31,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0360",
+    "name": "Wearables Product 360",
+    "category": "Wearables",
+    "price": 262.56,
+    "rating": 3.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=360&backgroundColor=f8fafc",
+    "popularity": 347,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0361",
+    "name": "Cameras Product 361",
+    "category": "Cameras",
+    "price": 412.69,
+    "rating": 3.9,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=361&backgroundColor=f8fafc",
+    "popularity": 107,
+    "tags": []
+  },
+  {
+    "id": "i0362",
+    "name": "Accessories Product 362",
+    "category": "Accessories",
+    "price": 29.77,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=362&backgroundColor=f8fafc",
+    "popularity": 228,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0363",
+    "name": "Cameras Product 363",
+    "category": "Cameras",
+    "price": 559.7,
+    "rating": 4.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=363&backgroundColor=f8fafc",
+    "popularity": 114,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0364",
+    "name": "Smart Home Product 364",
+    "category": "Smart Home",
+    "price": 77.14,
+    "rating": 4.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=364&backgroundColor=f8fafc",
+    "popularity": 142,
+    "tags": []
+  },
+  {
+    "id": "i0365",
+    "name": "Gaming Product 365",
+    "category": "Gaming",
+    "price": 61.56,
+    "rating": 4.5,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=365&backgroundColor=f8fafc",
+    "popularity": 308,
+    "tags": []
+  },
+  {
+    "id": "i0366",
+    "name": "Audio Product 366",
+    "category": "Audio",
+    "price": 103.93,
+    "rating": 4.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=366&backgroundColor=f8fafc",
+    "popularity": 20,
+    "tags": []
+  },
+  {
+    "id": "i0367",
+    "name": "Cameras Product 367",
+    "category": "Cameras",
+    "price": 586.62,
+    "rating": 4.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=367&backgroundColor=f8fafc",
+    "popularity": 402,
+    "tags": []
+  },
+  {
+    "id": "i0368",
+    "name": "Audio Product 368",
+    "category": "Audio",
+    "price": 204.42,
+    "rating": 2.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=368&backgroundColor=f8fafc",
+    "popularity": 129,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0369",
+    "name": "Smart Home Product 369",
+    "category": "Smart Home",
+    "price": 38.4,
+    "rating": 4.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=369&backgroundColor=f8fafc",
+    "popularity": 273,
+    "tags": [
+      "High Rated",
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0370",
+    "name": "Wearables Product 370",
+    "category": "Wearables",
+    "price": 103.22,
+    "rating": 3.5,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=370&backgroundColor=f8fafc",
+    "popularity": 1006,
+    "tags": [
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0371",
+    "name": "Cameras Product 371",
+    "category": "Cameras",
+    "price": 554.36,
+    "rating": 4.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=371&backgroundColor=f8fafc",
+    "popularity": 354,
+    "tags": []
+  },
+  {
+    "id": "i0372",
+    "name": "Accessories Product 372",
+    "category": "Accessories",
+    "price": 26.88,
+    "rating": 4.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=372&backgroundColor=f8fafc",
+    "popularity": 213,
+    "tags": []
+  },
+  {
+    "id": "i0373",
+    "name": "Wearables Product 373",
+    "category": "Wearables",
+    "price": 145.68,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=373&backgroundColor=f8fafc",
+    "popularity": 181,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0374",
+    "name": "Wearables Product 374",
+    "category": "Wearables",
+    "price": 232.91,
+    "rating": 4.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=374&backgroundColor=f8fafc",
+    "popularity": 486,
+    "tags": [
+      "High Rated",
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0375",
+    "name": "Accessories Product 375",
+    "category": "Accessories",
+    "price": 10.71,
+    "rating": 4.5,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=375&backgroundColor=f8fafc",
+    "popularity": 760,
+    "tags": [
+      "Trending",
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0376",
+    "name": "Gaming Product 376",
+    "category": "Gaming",
+    "price": 69.08,
+    "rating": 3.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=376&backgroundColor=f8fafc",
+    "popularity": 69,
+    "tags": []
+  },
+  {
+    "id": "i0377",
+    "name": "Gaming Product 377",
+    "category": "Gaming",
+    "price": 69.86,
+    "rating": 4.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=377&backgroundColor=f8fafc",
+    "popularity": 204,
+    "tags": []
+  },
+  {
+    "id": "i0378",
+    "name": "Cameras Product 378",
+    "category": "Cameras",
+    "price": 903.43,
+    "rating": 4.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=378&backgroundColor=f8fafc",
+    "popularity": 233,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0379",
+    "name": "Wearables Product 379",
+    "category": "Wearables",
+    "price": 222.31,
+    "rating": 4.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=379&backgroundColor=f8fafc",
+    "popularity": 487,
+    "tags": []
+  },
+  {
+    "id": "i0380",
+    "name": "Cameras Product 380",
+    "category": "Cameras",
+    "price": 649.35,
+    "rating": 3.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=380&backgroundColor=f8fafc",
+    "popularity": 299,
+    "tags": []
+  },
+  {
+    "id": "i0381",
+    "name": "Gaming Product 381",
+    "category": "Gaming",
+    "price": 101.27,
+    "rating": 3.9,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=381&backgroundColor=f8fafc",
+    "popularity": 127,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0382",
+    "name": "Laptops Product 382",
+    "category": "Laptops",
+    "price": 730.77,
+    "rating": 4.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=382&backgroundColor=f8fafc",
+    "popularity": 150,
+    "tags": []
+  },
+  {
+    "id": "i0383",
+    "name": "Smart Home Product 383",
+    "category": "Smart Home",
+    "price": 22.4,
+    "rating": 3.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=383&backgroundColor=f8fafc",
+    "popularity": 731,
+    "tags": [
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0384",
+    "name": "Cameras Product 384",
+    "category": "Cameras",
+    "price": 252.15,
+    "rating": 3.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=384&backgroundColor=f8fafc",
+    "popularity": 17,
+    "tags": []
+  },
+  {
+    "id": "i0385",
+    "name": "Cameras Product 385",
+    "category": "Cameras",
+    "price": 169.23,
+    "rating": 3.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=385&backgroundColor=f8fafc",
+    "popularity": 766,
+    "tags": [
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0386",
+    "name": "Laptops Product 386",
+    "category": "Laptops",
+    "price": 524.74,
+    "rating": 4.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=386&backgroundColor=f8fafc",
+    "popularity": 1411,
+    "tags": [
+      "High Rated",
+      "Trending",
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0387",
+    "name": "Gaming Product 387",
+    "category": "Gaming",
+    "price": 50.26,
+    "rating": 4.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=387&backgroundColor=f8fafc",
+    "popularity": 12,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0388",
+    "name": "Cameras Product 388",
+    "category": "Cameras",
+    "price": 152.61,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=388&backgroundColor=f8fafc",
+    "popularity": 28,
+    "tags": [
+      "High Rated",
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0389",
+    "name": "Audio Product 389",
+    "category": "Audio",
+    "price": 221.99,
+    "rating": 4.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=389&backgroundColor=f8fafc",
+    "popularity": 592,
+    "tags": [
+      "High Rated",
+      "Trending",
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0390",
+    "name": "Gaming Product 390",
+    "category": "Gaming",
+    "price": 77.84,
+    "rating": 4.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=390&backgroundColor=f8fafc",
+    "popularity": 348,
+    "tags": []
+  },
+  {
+    "id": "i0391",
+    "name": "Gaming Product 391",
+    "category": "Gaming",
+    "price": 68.44,
+    "rating": 4.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=391&backgroundColor=f8fafc",
+    "popularity": 164,
+    "tags": []
+  },
+  {
+    "id": "i0392",
+    "name": "Smart Home Product 392",
+    "category": "Smart Home",
+    "price": 49.84,
+    "rating": 4.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=392&backgroundColor=f8fafc",
+    "popularity": 112,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0393",
+    "name": "Cameras Product 393",
+    "category": "Cameras",
+    "price": 475.42,
+    "rating": 3.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=393&backgroundColor=f8fafc",
+    "popularity": 55,
+    "tags": []
+  },
+  {
+    "id": "i0394",
+    "name": "Wearables Product 394",
+    "category": "Wearables",
+    "price": 163.49,
+    "rating": 3.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=394&backgroundColor=f8fafc",
+    "popularity": 597,
+    "tags": [
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0395",
+    "name": "Networking Product 395",
+    "category": "Networking",
+    "price": 25.77,
+    "rating": 4.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=395&backgroundColor=f8fafc",
+    "popularity": 55,
+    "tags": [
+      "High Rated",
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0396",
+    "name": "Networking Product 396",
+    "category": "Networking",
+    "price": 61.05,
+    "rating": 4.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=396&backgroundColor=f8fafc",
+    "popularity": 118,
+    "tags": [
+      "High Rated",
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0397",
+    "name": "Networking Product 397",
+    "category": "Networking",
+    "price": 61.9,
+    "rating": 4.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=397&backgroundColor=f8fafc",
+    "popularity": 164,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0398",
+    "name": "Smart Home Product 398",
+    "category": "Smart Home",
+    "price": 55.95,
+    "rating": 3.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=398&backgroundColor=f8fafc",
+    "popularity": 204,
+    "tags": []
+  },
+  {
+    "id": "i0399",
+    "name": "Networking Product 399",
+    "category": "Networking",
+    "price": 146.43,
+    "rating": 3.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=399&backgroundColor=f8fafc",
+    "popularity": 145,
+    "tags": []
+  },
+  {
+    "id": "i0400",
+    "name": "Laptops Product 400",
+    "category": "Laptops",
+    "price": 889.57,
+    "rating": 4.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=400&backgroundColor=f8fafc",
+    "popularity": 580,
+    "tags": [
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0401",
+    "name": "Accessories Product 401",
+    "category": "Accessories",
+    "price": 19.63,
+    "rating": 4.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=401&backgroundColor=f8fafc",
+    "popularity": 167,
+    "tags": []
+  },
+  {
+    "id": "i0402",
+    "name": "Gaming Product 402",
+    "category": "Gaming",
+    "price": 61.47,
+    "rating": 4.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=402&backgroundColor=f8fafc",
+    "popularity": 154,
+    "tags": []
+  },
+  {
+    "id": "i0403",
+    "name": "Wearables Product 403",
+    "category": "Wearables",
+    "price": 100.28,
+    "rating": 3.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=403&backgroundColor=f8fafc",
+    "popularity": 36,
+    "tags": []
+  },
+  {
+    "id": "i0404",
+    "name": "Accessories Product 404",
+    "category": "Accessories",
+    "price": 9.99,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=404&backgroundColor=f8fafc",
+    "popularity": 74,
+    "tags": [
+      "High Rated",
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0405",
+    "name": "Smart Home Product 405",
+    "category": "Smart Home",
+    "price": 115.8,
+    "rating": 3.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=405&backgroundColor=f8fafc",
+    "popularity": 110,
+    "tags": []
+  },
+  {
+    "id": "i0406",
+    "name": "Gaming Product 406",
+    "category": "Gaming",
+    "price": 39.8,
+    "rating": 4.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=406&backgroundColor=f8fafc",
+    "popularity": 196,
+    "tags": [
+      "High Rated",
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0407",
+    "name": "Smart Home Product 407",
+    "category": "Smart Home",
+    "price": 165.81,
+    "rating": 3.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=407&backgroundColor=f8fafc",
+    "popularity": 45,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0408",
+    "name": "Smart Home Product 408",
+    "category": "Smart Home",
+    "price": 105.35,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=408&backgroundColor=f8fafc",
+    "popularity": 224,
+    "tags": []
+  },
+  {
+    "id": "i0409",
+    "name": "Laptops Product 409",
+    "category": "Laptops",
+    "price": 748.07,
+    "rating": 4.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=409&backgroundColor=f8fafc",
+    "popularity": 155,
+    "tags": []
+  },
+  {
+    "id": "i0410",
+    "name": "Audio Product 410",
+    "category": "Audio",
+    "price": 148.19,
+    "rating": 4.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=410&backgroundColor=f8fafc",
+    "popularity": 1353,
+    "tags": [
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0411",
+    "name": "Audio Product 411",
+    "category": "Audio",
+    "price": 31.51,
+    "rating": 3.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=411&backgroundColor=f8fafc",
+    "popularity": 135,
+    "tags": []
+  },
+  {
+    "id": "i0412",
+    "name": "Smart Home Product 412",
+    "category": "Smart Home",
+    "price": 47.85,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=412&backgroundColor=f8fafc",
+    "popularity": 764,
+    "tags": [
+      "High Rated",
+      "Trending",
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0413",
+    "name": "Networking Product 413",
+    "category": "Networking",
+    "price": 86.78,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=413&backgroundColor=f8fafc",
+    "popularity": 262,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0414",
+    "name": "Accessories Product 414",
+    "category": "Accessories",
+    "price": 20.26,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=414&backgroundColor=f8fafc",
+    "popularity": 121,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0415",
+    "name": "Networking Product 415",
+    "category": "Networking",
+    "price": 59.11,
+    "rating": 3.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=415&backgroundColor=f8fafc",
+    "popularity": 77,
+    "tags": []
+  },
+  {
+    "id": "i0416",
+    "name": "Cameras Product 416",
+    "category": "Cameras",
+    "price": 508.52,
+    "rating": 3.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=416&backgroundColor=f8fafc",
+    "popularity": 68,
+    "tags": []
+  },
+  {
+    "id": "i0417",
+    "name": "Smart Home Product 417",
+    "category": "Smart Home",
+    "price": 17.76,
+    "rating": 4.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=417&backgroundColor=f8fafc",
+    "popularity": 206,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0418",
+    "name": "Cameras Product 418",
+    "category": "Cameras",
+    "price": 9.99,
+    "rating": 4.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=418&backgroundColor=f8fafc",
+    "popularity": 215,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0419",
+    "name": "Networking Product 419",
+    "category": "Networking",
+    "price": 47.42,
+    "rating": 4.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=419&backgroundColor=f8fafc",
+    "popularity": 790,
+    "tags": [
+      "High Rated",
+      "Trending",
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0420",
+    "name": "Cameras Product 420",
+    "category": "Cameras",
+    "price": 323.75,
+    "rating": 4.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=420&backgroundColor=f8fafc",
+    "popularity": 140,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0421",
+    "name": "Smart Home Product 421",
+    "category": "Smart Home",
+    "price": 83.04,
+    "rating": 4.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=421&backgroundColor=f8fafc",
+    "popularity": 254,
+    "tags": []
+  },
+  {
+    "id": "i0422",
+    "name": "Laptops Product 422",
+    "category": "Laptops",
+    "price": 867.74,
+    "rating": 3.5,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=422&backgroundColor=f8fafc",
+    "popularity": 36,
+    "tags": []
+  },
+  {
+    "id": "i0423",
+    "name": "Audio Product 423",
+    "category": "Audio",
+    "price": 54.8,
+    "rating": 4.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=423&backgroundColor=f8fafc",
+    "popularity": 71,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0424",
+    "name": "Accessories Product 424",
+    "category": "Accessories",
+    "price": 38.64,
+    "rating": 4.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=424&backgroundColor=f8fafc",
+    "popularity": 272,
+    "tags": [
+      "High Rated",
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0425",
+    "name": "Cameras Product 425",
+    "category": "Cameras",
+    "price": 420.9,
+    "rating": 3.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=425&backgroundColor=f8fafc",
+    "popularity": 499,
+    "tags": []
+  },
+  {
+    "id": "i0426",
+    "name": "Smart Home Product 426",
+    "category": "Smart Home",
+    "price": 172.77,
+    "rating": 4.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=426&backgroundColor=f8fafc",
+    "popularity": 219,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0427",
+    "name": "Laptops Product 427",
+    "category": "Laptops",
+    "price": 676.35,
+    "rating": 4.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=427&backgroundColor=f8fafc",
+    "popularity": 169,
+    "tags": []
+  },
+  {
+    "id": "i0428",
+    "name": "Networking Product 428",
+    "category": "Networking",
+    "price": 162.49,
+    "rating": 4.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=428&backgroundColor=f8fafc",
+    "popularity": 386,
+    "tags": []
+  },
+  {
+    "id": "i0429",
+    "name": "Audio Product 429",
+    "category": "Audio",
+    "price": 33.44,
+    "rating": 3.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=429&backgroundColor=f8fafc",
+    "popularity": 23,
+    "tags": []
+  },
+  {
+    "id": "i0430",
+    "name": "Smart Home Product 430",
+    "category": "Smart Home",
+    "price": 35.87,
+    "rating": 4.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=430&backgroundColor=f8fafc",
+    "popularity": 17,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0431",
+    "name": "Accessories Product 431",
+    "category": "Accessories",
+    "price": 56.16,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=431&backgroundColor=f8fafc",
+    "popularity": 147,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0432",
+    "name": "Networking Product 432",
+    "category": "Networking",
+    "price": 124.91,
+    "rating": 4.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=432&backgroundColor=f8fafc",
+    "popularity": 134,
+    "tags": []
+  },
+  {
+    "id": "i0433",
+    "name": "Laptops Product 433",
+    "category": "Laptops",
+    "price": 683.89,
+    "rating": 4.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=433&backgroundColor=f8fafc",
+    "popularity": 193,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0434",
+    "name": "Networking Product 434",
+    "category": "Networking",
+    "price": 79.91,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=434&backgroundColor=f8fafc",
+    "popularity": 400,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0435",
+    "name": "Wearables Product 435",
+    "category": "Wearables",
+    "price": 93.32,
+    "rating": 4.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=435&backgroundColor=f8fafc",
+    "popularity": 253,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0436",
+    "name": "Networking Product 436",
+    "category": "Networking",
+    "price": 121.69,
+    "rating": 3.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=436&backgroundColor=f8fafc",
+    "popularity": 147,
+    "tags": []
+  },
+  {
+    "id": "i0437",
+    "name": "Cameras Product 437",
+    "category": "Cameras",
+    "price": 618.67,
+    "rating": 4.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=437&backgroundColor=f8fafc",
+    "popularity": 144,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0438",
+    "name": "Networking Product 438",
+    "category": "Networking",
+    "price": 203.41,
+    "rating": 4.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=438&backgroundColor=f8fafc",
+    "popularity": 259,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0439",
+    "name": "Laptops Product 439",
+    "category": "Laptops",
+    "price": 275.27,
+    "rating": 4.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=439&backgroundColor=f8fafc",
+    "popularity": 51,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0440",
+    "name": "Networking Product 440",
+    "category": "Networking",
+    "price": 83.43,
+    "rating": 3.9,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=440&backgroundColor=f8fafc",
+    "popularity": 123,
+    "tags": []
+  },
+  {
+    "id": "i0441",
+    "name": "Networking Product 441",
+    "category": "Networking",
+    "price": 151.78,
+    "rating": 4.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=441&backgroundColor=f8fafc",
+    "popularity": 138,
+    "tags": []
+  },
+  {
+    "id": "i0442",
+    "name": "Gaming Product 442",
+    "category": "Gaming",
+    "price": 61.93,
+    "rating": 4.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=442&backgroundColor=f8fafc",
+    "popularity": 20,
+    "tags": []
+  },
+  {
+    "id": "i0443",
+    "name": "Smart Home Product 443",
+    "category": "Smart Home",
+    "price": 74.24,
+    "rating": 3.5,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=443&backgroundColor=f8fafc",
+    "popularity": 44,
+    "tags": []
+  },
+  {
+    "id": "i0444",
+    "name": "Gaming Product 444",
+    "category": "Gaming",
+    "price": 105.92,
+    "rating": 4.5,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=444&backgroundColor=f8fafc",
+    "popularity": 502,
+    "tags": [
+      "Trending",
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0445",
+    "name": "Networking Product 445",
+    "category": "Networking",
+    "price": 209.44,
+    "rating": 4.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=445&backgroundColor=f8fafc",
+    "popularity": 172,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0446",
+    "name": "Smart Home Product 446",
+    "category": "Smart Home",
+    "price": 55.46,
+    "rating": 3.9,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=446&backgroundColor=f8fafc",
+    "popularity": 109,
+    "tags": []
+  },
+  {
+    "id": "i0447",
+    "name": "Gaming Product 447",
+    "category": "Gaming",
+    "price": 65.11,
+    "rating": 3.9,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=447&backgroundColor=f8fafc",
+    "popularity": 174,
+    "tags": []
+  },
+  {
+    "id": "i0448",
+    "name": "Networking Product 448",
+    "category": "Networking",
+    "price": 146.22,
+    "rating": 4.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=448&backgroundColor=f8fafc",
+    "popularity": 488,
+    "tags": []
+  },
+  {
+    "id": "i0449",
+    "name": "Accessories Product 449",
+    "category": "Accessories",
+    "price": 9.99,
+    "rating": 4.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=449&backgroundColor=f8fafc",
+    "popularity": 11,
+    "tags": [
+      "High Rated",
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0450",
+    "name": "Gaming Product 450",
+    "category": "Gaming",
+    "price": 18.99,
+    "rating": 4.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=450&backgroundColor=f8fafc",
+    "popularity": 118,
+    "tags": [
+      "High Rated",
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0451",
+    "name": "Smart Home Product 451",
+    "category": "Smart Home",
+    "price": 9.99,
+    "rating": 3.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=451&backgroundColor=f8fafc",
+    "popularity": 255,
+    "tags": []
+  },
+  {
+    "id": "i0452",
+    "name": "Gaming Product 452",
+    "category": "Gaming",
+    "price": 42.7,
+    "rating": 4.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=452&backgroundColor=f8fafc",
+    "popularity": 11,
+    "tags": []
+  },
+  {
+    "id": "i0453",
+    "name": "Wearables Product 453",
+    "category": "Wearables",
+    "price": 179.39,
+    "rating": 3.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=453&backgroundColor=f8fafc",
+    "popularity": 33,
+    "tags": []
+  },
+  {
+    "id": "i0454",
+    "name": "Wearables Product 454",
+    "category": "Wearables",
+    "price": 148.85,
+    "rating": 4.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=454&backgroundColor=f8fafc",
+    "popularity": 264,
+    "tags": []
+  },
+  {
+    "id": "i0455",
+    "name": "Accessories Product 455",
+    "category": "Accessories",
+    "price": 12.84,
+    "rating": 4.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=455&backgroundColor=f8fafc",
+    "popularity": 491,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0456",
+    "name": "Laptops Product 456",
+    "category": "Laptops",
+    "price": 789.08,
+    "rating": 4.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=456&backgroundColor=f8fafc",
+    "popularity": 58,
+    "tags": []
+  },
+  {
+    "id": "i0457",
+    "name": "Laptops Product 457",
+    "category": "Laptops",
+    "price": 446.08,
+    "rating": 3.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=457&backgroundColor=f8fafc",
+    "popularity": 124,
+    "tags": []
+  },
+  {
+    "id": "i0458",
+    "name": "Smart Home Product 458",
+    "category": "Smart Home",
+    "price": 25.12,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=458&backgroundColor=f8fafc",
+    "popularity": 29,
+    "tags": [
+      "High Rated",
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0459",
+    "name": "Cameras Product 459",
+    "category": "Cameras",
+    "price": 447.67,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=459&backgroundColor=f8fafc",
+    "popularity": 76,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0460",
+    "name": "Laptops Product 460",
+    "category": "Laptops",
+    "price": 557.75,
+    "rating": 4.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=460&backgroundColor=f8fafc",
+    "popularity": 921,
+    "tags": [
+      "High Rated",
+      "Trending",
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0461",
+    "name": "Smart Home Product 461",
+    "category": "Smart Home",
+    "price": 60.48,
+    "rating": 4.5,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=461&backgroundColor=f8fafc",
+    "popularity": 1283,
+    "tags": [
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0462",
+    "name": "Accessories Product 462",
+    "category": "Accessories",
+    "price": 34.28,
+    "rating": 3.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=462&backgroundColor=f8fafc",
+    "popularity": 200,
+    "tags": []
+  },
+  {
+    "id": "i0463",
+    "name": "Cameras Product 463",
+    "category": "Cameras",
+    "price": 890.38,
+    "rating": 4.9,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=463&backgroundColor=f8fafc",
+    "popularity": 153,
+    "tags": [
+      "High Rated",
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0464",
+    "name": "Cameras Product 464",
+    "category": "Cameras",
+    "price": 614.99,
+    "rating": 3.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=464&backgroundColor=f8fafc",
+    "popularity": 75,
+    "tags": []
+  },
+  {
+    "id": "i0465",
+    "name": "Wearables Product 465",
+    "category": "Wearables",
+    "price": 160.24,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=465&backgroundColor=f8fafc",
+    "popularity": 102,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0466",
+    "name": "Networking Product 466",
+    "category": "Networking",
+    "price": 39.17,
+    "rating": 4.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=466&backgroundColor=f8fafc",
+    "popularity": 56,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0467",
+    "name": "Cameras Product 467",
+    "category": "Cameras",
+    "price": 335.78,
+    "rating": 4.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=467&backgroundColor=f8fafc",
+    "popularity": 52,
+    "tags": [
+      "High Rated",
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0468",
+    "name": "Audio Product 468",
+    "category": "Audio",
+    "price": 159.29,
+    "rating": 4.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=468&backgroundColor=f8fafc",
+    "popularity": 304,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0469",
+    "name": "Smart Home Product 469",
+    "category": "Smart Home",
+    "price": 49.73,
+    "rating": 4.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=469&backgroundColor=f8fafc",
+    "popularity": 35,
+    "tags": [
+      "High Rated",
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0470",
+    "name": "Cameras Product 470",
+    "category": "Cameras",
+    "price": 419.33,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=470&backgroundColor=f8fafc",
+    "popularity": 115,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0471",
+    "name": "Cameras Product 471",
+    "category": "Cameras",
+    "price": 639.06,
+    "rating": 4.9,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=471&backgroundColor=f8fafc",
+    "popularity": 234,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0472",
+    "name": "Audio Product 472",
+    "category": "Audio",
+    "price": 67.82,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=472&backgroundColor=f8fafc",
+    "popularity": 375,
+    "tags": [
+      "High Rated",
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0473",
+    "name": "Cameras Product 473",
+    "category": "Cameras",
+    "price": 567.15,
+    "rating": 4.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=473&backgroundColor=f8fafc",
+    "popularity": 684,
+    "tags": [
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0474",
+    "name": "Networking Product 474",
+    "category": "Networking",
+    "price": 152.3,
+    "rating": 4.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=474&backgroundColor=f8fafc",
+    "popularity": 433,
+    "tags": []
+  },
+  {
+    "id": "i0475",
+    "name": "Audio Product 475",
+    "category": "Audio",
+    "price": 58.04,
+    "rating": 3.9,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=475&backgroundColor=f8fafc",
+    "popularity": 52,
+    "tags": []
+  },
+  {
+    "id": "i0476",
+    "name": "Wearables Product 476",
+    "category": "Wearables",
+    "price": 304.22,
+    "rating": 2.9,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=476&backgroundColor=f8fafc",
+    "popularity": 49,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0477",
+    "name": "Gaming Product 477",
+    "category": "Gaming",
+    "price": 51.7,
+    "rating": 4.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=477&backgroundColor=f8fafc",
+    "popularity": 201,
+    "tags": []
+  },
+  {
+    "id": "i0478",
+    "name": "Cameras Product 478",
+    "category": "Cameras",
+    "price": 715.12,
+    "rating": 4.6,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=478&backgroundColor=f8fafc",
+    "popularity": 82,
+    "tags": []
+  },
+  {
+    "id": "i0479",
+    "name": "Cameras Product 479",
+    "category": "Cameras",
+    "price": 570.64,
+    "rating": 4.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=479&backgroundColor=f8fafc",
+    "popularity": 115,
+    "tags": []
+  },
+  {
+    "id": "i0480",
+    "name": "Smart Home Product 480",
+    "category": "Smart Home",
+    "price": 99.64,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=480&backgroundColor=f8fafc",
+    "popularity": 309,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0481",
+    "name": "Networking Product 481",
+    "category": "Networking",
+    "price": 190.41,
+    "rating": 4.5,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=481&backgroundColor=f8fafc",
+    "popularity": 177,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0482",
+    "name": "Smart Home Product 482",
+    "category": "Smart Home",
+    "price": 95.99,
+    "rating": 3.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=482&backgroundColor=f8fafc",
+    "popularity": 77,
+    "tags": []
+  },
+  {
+    "id": "i0483",
+    "name": "Gaming Product 483",
+    "category": "Gaming",
+    "price": 77.59,
+    "rating": 3.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=483&backgroundColor=f8fafc",
+    "popularity": 511,
+    "tags": [
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0484",
+    "name": "Cameras Product 484",
+    "category": "Cameras",
+    "price": 577.21,
+    "rating": 4.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=484&backgroundColor=f8fafc",
+    "popularity": 814,
+    "tags": [
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0485",
+    "name": "Networking Product 485",
+    "category": "Networking",
+    "price": 276.1,
+    "rating": 4.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=485&backgroundColor=f8fafc",
+    "popularity": 261,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0486",
+    "name": "Audio Product 486",
+    "category": "Audio",
+    "price": 137.67,
+    "rating": 3.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=486&backgroundColor=f8fafc",
+    "popularity": 217,
+    "tags": []
+  },
+  {
+    "id": "i0487",
+    "name": "Cameras Product 487",
+    "category": "Cameras",
+    "price": 668.3,
+    "rating": 4.9,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=487&backgroundColor=f8fafc",
+    "popularity": 129,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0488",
+    "name": "Wearables Product 488",
+    "category": "Wearables",
+    "price": 134.32,
+    "rating": 3.4,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=488&backgroundColor=f8fafc",
+    "popularity": 63,
+    "tags": []
+  },
+  {
+    "id": "i0489",
+    "name": "Cameras Product 489",
+    "category": "Cameras",
+    "price": 647.14,
+    "rating": 3.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=489&backgroundColor=f8fafc",
+    "popularity": 788,
+    "tags": [
+      "Trending"
+    ]
+  },
+  {
+    "id": "i0490",
+    "name": "Laptops Product 490",
+    "category": "Laptops",
+    "price": 321.65,
+    "rating": 4.3,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=490&backgroundColor=f8fafc",
+    "popularity": 231,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0491",
+    "name": "Networking Product 491",
+    "category": "Networking",
+    "price": 83.41,
+    "rating": 4.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=491&backgroundColor=f8fafc",
+    "popularity": 129,
+    "tags": [
+      "High Rated",
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0492",
+    "name": "Laptops Product 492",
+    "category": "Laptops",
+    "price": 486.04,
+    "rating": 4.1,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=492&backgroundColor=f8fafc",
+    "popularity": 283,
+    "tags": [
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0493",
+    "name": "Audio Product 493",
+    "category": "Audio",
+    "price": 120.98,
+    "rating": 4.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=493&backgroundColor=f8fafc",
+    "popularity": 61,
+    "tags": []
+  },
+  {
+    "id": "i0494",
+    "name": "Cameras Product 494",
+    "category": "Cameras",
+    "price": 680.6,
+    "rating": 3.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=494&backgroundColor=f8fafc",
+    "popularity": 102,
+    "tags": []
+  },
+  {
+    "id": "i0495",
+    "name": "Audio Product 495",
+    "category": "Audio",
+    "price": 80.02,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=495&backgroundColor=f8fafc",
+    "popularity": 185,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0496",
+    "name": "Accessories Product 496",
+    "category": "Accessories",
+    "price": 9.99,
+    "rating": 4.7,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=496&backgroundColor=f8fafc",
+    "popularity": 25,
+    "tags": [
+      "High Rated",
+      "Good Value"
+    ]
+  },
+  {
+    "id": "i0497",
+    "name": "Cameras Product 497",
+    "category": "Cameras",
+    "price": 815.65,
+    "rating": 3.2,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=497&backgroundColor=f8fafc",
+    "popularity": 85,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0498",
+    "name": "Laptops Product 498",
+    "category": "Laptops",
+    "price": 574.3,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=498&backgroundColor=f8fafc",
+    "popularity": 178,
+    "tags": [
+      "High Rated"
+    ]
+  },
+  {
+    "id": "i0499",
+    "name": "Networking Product 499",
+    "category": "Networking",
+    "price": 240.37,
+    "rating": 5.0,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=499&backgroundColor=f8fafc",
+    "popularity": 1166,
+    "tags": [
+      "High Rated",
+      "Trending",
+      "Premium"
+    ]
+  },
+  {
+    "id": "i0500",
+    "name": "Laptops Product 500",
+    "category": "Laptops",
+    "price": 1209.63,
+    "rating": 4.8,
+    "image": "https://api.dicebear.com/7.x/shapes/svg?seed=500&backgroundColor=f8fafc",
+    "popularity": 268,
+    "tags": [
+      "High Rated",
+      "Premium"
+    ]
+  }
+]

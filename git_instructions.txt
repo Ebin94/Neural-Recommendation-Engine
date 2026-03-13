@@ -1,0 +1,8 @@
+Please execute the following git actions in the current directory (`c:/antigravity project/swiggy project`):
+1. Initialize a git repository (`git init`)
+2. Stage all files (`git add .`)
+3. Commit with the message: "Initial commit"
+4. Add the remote origin: `https://github.com/Ebin94/Neural-Recommendation-Engine.git`
+5. Push to the `main` branch.
+
+If any GitHub authentication is required (like a web popup or PAT), please stop and output exactly what the user needs to do in your final response.

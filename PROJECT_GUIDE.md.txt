@@ -1,0 +1,382 @@
+# Project Guide
+## Project Name
+Neural Recommendation Engine with Explainable Re-ranking
+
+## Goal
+Build a portfolio-ready, frontend-heavy recommendation web app that demonstrates:
+- recommendation systems
+- TensorFlow-based offline model training
+- precomputed recommendation outputs
+- lightweight explanation and re-ranking
+- consumer-tech / Swiggy-style product relevance
+- free deployment on Vercel
+
+The final deployed app must:
+- run without a backend
+- use static JSON artifacts generated offline
+- be fast and polished
+- feel like a real product demo, not a notebook in disguise
+
+---
+
+## Product Positioning
+This is a consumer-commerce recommendation prototype inspired by food delivery / ecommerce ranking systems.
+
+The app should simulate:
+- personalized top-N recommendations
+- business-friendly explanation of why items were ranked
+- segment-aware re-ranking
+- lightweight copilot-style prompts for product/business questions
+
+The app is NOT:
+- a chatbot-first app
+- a backend-heavy production system
+- a live training/inference service
+- an API-dependent LLM product
+
+---
+
+## Deployment Constraints
+Must deploy for free on Vercel Hobby as a static or frontend-only app.
+
+This means:
+- no server dependency required for core functionality
+- all recommendation data must be loaded from static JSON files
+- any "AI" behavior in the app must be implemented through:
+  - precomputed outputs
+  - deterministic re-ranking logic
+  - lightweight explanation templates
+  - optional offline-generated natural language summaries
+
+---
+
+## Tech Stack
+
+### Offline model/training layer
+- Python
+- Pandas
+- NumPy
+- TensorFlow or TensorFlow Recommenders
+- scikit-learn
+- optional: light ranking baselines for comparison
+
+### Frontend
+- React
+- Vite
+- Tailwind CSS
+- Recharts
+- Lucide icons
+- local JSON files served from `/public/data`
+
+### Deployment
+- GitHub
+- Vercel
+
+---
+
+## Core Product Narrative
+User selects a persona or customer profile.
+The app shows:
+- top ranked recommended items
+- recommendation score
+- metadata such as category, price, rating, popularity
+- reasons for recommendation
+- summary-level business insights
+
+Phase 2 adds:
+- re-ranking controls
+- explanation panel
+- copilot-style prompt actions
+- diversity / novelty aware re-ranking
+
+---
+
+## High-Level Architecture
+
+### Offline pipeline
+1. Load public interaction dataset
+2. Clean and preprocess data
+3. Build user-item interaction matrix / user-item features
+4. Train recommender model offline
+5. Generate top-N recommendations for selected users/personas
+6. Create explanation metadata and segment summaries
+7. Export app-ready JSON files
+
+### Frontend pipeline
+1. Load JSON artifacts from `/public/data`
+2. Render persona selector
+3. Render recommendation list
+4. Render explanation drawer
+5. Render business insights and charts
+6. Apply lightweight client-side re-ranking logic
+
+---
+
+## Dataset Recommendation
+
+### Preferred
+Use an Amazon reviews / ecommerce-style public dataset subset.
+
+### Acceptable fallback
+MovieLens if speed is more important than domain fidelity.
+
+### Important
+Keep dataset size small enough for quick experimentation and JSON export.
+Only export a compact subset for the demo.
+
+Recommended demo subset:
+- 100 to 300 users/personas
+- 200 to 600 items
+- top 20 recommendations per user
+- only metadata needed for UI
+
+---
+
+## Repo Structure
+
+neural-reco-rerank/
+- README.md
+- model/
+  - notebooks/
+  - scripts/
+    - preprocess.py
+    - train_recommender.py
+    - generate_topn.py
+    - export_json.py
+  - outputs/
+- app/
+  - public/
+    - data/
+      - users.json
+      - items.json
+      - recommendations.json
+      - insights.json
+      - segments.json
+      - prompts.json
+  - src/
+    - components/
+    - pages/
+    - hooks/
+    - utils/
+    - data/
+    - App.jsx
+    - main.jsx
+  - package.json
+  - vite.config.js
+
+---
+
+## Phase 1 — Fast MVP
+
+### Objective
+Ship a polished, fully demoable, frontend-only recommendation product.
+
+### Mandatory Features
+1. Landing page
+2. Persona/user selector
+3. Recommendation results page
+4. Recommendation detail drawer/panel
+5. Insights dashboard
+6. Methodology/About page
+7. Static JSON-driven rendering
+8. Responsive layout
+9. Clean visual branding
+10. Vercel-ready deployment
+
+### User Experience
+A visitor should be able to:
+- enter the app
+- pick a user/persona
+- instantly see recommendations
+- click an item to understand why it was recommended
+- view simple business insights
+- understand the architecture from the About page
+
+### Recommendation Display Requirements
+For each recommendation card show:
+- item name
+- category
+- image placeholder or thumbnail
+- price
+- rating
+- recommendation score
+- badges such as:
+  - Good Value
+  - Similar Taste
+  - Popular in Segment
+  - Trending
+  - High Rated
+
+### Explanation Panel Requirements
+For each item, explain recommendation using structured reasons:
+- matched preferred category
+- similar users interacted positively
+- strong popularity in user segment
+- good fit on price/rating profile
+- high learned relevance score
+
+### Insights Dashboard Requirements
+Show 4–6 compact charts/cards:
+- top categories by recommendations
+- average predicted score by segment
+- price band distribution
+- rating distribution
+- recommendation reason breakdown
+- top items by exposure
+
+### Methodology Page Requirements
+Explain:
+- dataset source
+- preprocessing
+- model type
+- ranking/export pipeline
+- app limitations
+- why static JSON deployment was used
+
+---
+
+## Phase 2 — Differentiator
+
+### Objective
+Add modern product intelligence without breaking free frontend-only deployment.
+
+### Mandatory Features
+1. Client-side re-ranking controls
+2. Segment-aware recommendation adjustment
+3. Diversity-aware ranking pass
+4. Copilot-style prompt actions
+5. Better explanation generation
+6. Product/business recommendation summaries
+
+### Re-ranking Features
+Allow toggles or slider-based ranking preferences such as:
+- prioritize value
+- prioritize rating
+- prioritize novelty
+- diversify categories
+- prioritize popularity
+- prioritize premium items
+
+This does NOT retrain the model.
+It adjusts the final displayed ranking from precomputed candidates.
+
+### Copilot Features
+Provide clickable prompts such as:
+- Why is this item ranked #1?
+- Show cheaper alternatives
+- What should we promote to this user segment?
+- Which items are under-exposed but high quality?
+- Why did premium items rank lower here?
+
+The copilot should not be a free-form hallucination machine.
+It should map prompts to deterministic handlers using local data.
+
+### Explanation Improvements
+Generate richer explanations based on:
+- candidate score
+- item metadata
+- user segment
+- ranking adjustments
+- comparison against neighboring ranked items
+
+### Business Recommendation Panel
+Surface recommendations such as:
+- promote high-rated low-exposure items
+- bundle strong-repeat categories
+- target budget segments with low-price high-rating items
+- increase category diversity to reduce monotony
+
+---
+
+## UI / Design Guidelines
+Use a polished consumer-tech style:
+- clean cards
+- rounded corners
+- soft shadows
+- modern spacing
+- subtle gradients
+- strong hierarchy
+- dashboard-like readability
+
+Suggested page structure:
+- top navigation
+- left filters/panel on desktop
+- main content area
+- right detail drawer optional on desktop
+- stacked layout on mobile
+
+---
+
+## Success Criteria
+The project is successful if:
+- it deploys free on Vercel
+- it looks polished enough for portfolio use
+- recommendations feel plausible and consistent
+- explanations feel grounded in data
+- the app is easy to demo in under 2 minutes
+- repo is clean and professional
+- resume bullets can credibly claim recommender systems + explainable re-ranking
+
+---
+
+## Non-Goals
+Do not build:
+- backend APIs
+- auth
+- databases
+- live model inference
+- live LLM calls
+- chat memory
+- full production MLOps
+
+---
+
+## Implementation Order
+
+### Step 1
+Set up repo and frontend shell.
+
+### Step 2
+Build offline scripts for:
+- preprocessing
+- training
+- top-N generation
+- JSON export
+
+### Step 3
+Define final JSON schema and sample mock data.
+
+### Step 4
+Build frontend pages using mock JSON.
+
+### Step 5
+Replace mock JSON with exported model outputs.
+
+### Step 6
+Add Phase 1 polish and deploy.
+
+### Step 7
+Implement Phase 2 re-ranking and copilot actions.
+
+### Step 8
+Polish README, screenshots, demo GIF, and project copy.
+
+---
+
+## Engineering Notes
+- Keep code modular and readable.
+- Frontend must gracefully handle missing data.
+- Recommendation scoring shown in UI can be normalized to 0–100.
+- Prefer deterministic logic over fake intelligence.
+- Every explanation shown should be traceable to actual item/user metadata.
+
+---
+
+## Deliverables
+1. Full repo
+2. Vercel-deployable app
+3. Python scripts for offline artifact generation
+4. Static JSON files
+5. README
+6. Architecture diagram
+7. Resume-ready bullets

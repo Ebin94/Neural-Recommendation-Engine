@@ -1,0 +1,26 @@
+[
+  {
+    "id": "budget_electronics",
+    "name": "Budget Electronics",
+    "description": "Users who prefer cost-effective tech options.",
+    "strategy": "Promote high-rated budget items and strict value bundles."
+  },
+  {
+    "id": "premium_audio",
+    "name": "Premium Audio",
+    "description": "Users who invest in high-fidelity audio equipment.",
+    "strategy": "Upsell premium audio gadgets and high-margin accessories."
+  },
+  {
+    "id": "gaming_enthusiast",
+    "name": "Gaming Enthusiast",
+    "description": "PC and console gamers focused on performance.",
+    "strategy": "Highlight trending peripherals, monitors, and gaming gear."
+  },
+  {
+    "id": "smart_home_fan",
+    "name": "Smart Home Adopter",
+    "description": "Users upgrading their homes with connected devices.",
+    "strategy": "Promote bundles of IoT devices and security cameras."
+  }
+]

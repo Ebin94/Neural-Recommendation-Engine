@@ -1,0 +1,2392 @@
+[
+  {
+    "id": "u0001",
+    "name": "User 001 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0002",
+    "name": "User 002 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0003",
+    "name": "User 003 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0004",
+    "name": "User 004 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0005",
+    "name": "User 005 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0006",
+    "name": "User 006 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0007",
+    "name": "User 007 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0008",
+    "name": "User 008 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0009",
+    "name": "User 009 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0010",
+    "name": "User 010 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0011",
+    "name": "User 011 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0012",
+    "name": "User 012 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0013",
+    "name": "User 013 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0014",
+    "name": "User 014 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0015",
+    "name": "User 015 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0016",
+    "name": "User 016 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0017",
+    "name": "User 017 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0018",
+    "name": "User 018 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0019",
+    "name": "User 019 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0020",
+    "name": "User 020 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0021",
+    "name": "User 021 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0022",
+    "name": "User 022 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0023",
+    "name": "User 023 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0024",
+    "name": "User 024 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0025",
+    "name": "User 025 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0026",
+    "name": "User 026 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0027",
+    "name": "User 027 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0028",
+    "name": "User 028 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0029",
+    "name": "User 029 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0030",
+    "name": "User 030 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0031",
+    "name": "User 031 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0032",
+    "name": "User 032 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0033",
+    "name": "User 033 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0034",
+    "name": "User 034 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0035",
+    "name": "User 035 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0036",
+    "name": "User 036 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0037",
+    "name": "User 037 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0038",
+    "name": "User 038 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0039",
+    "name": "User 039 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0040",
+    "name": "User 040 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0041",
+    "name": "User 041 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0042",
+    "name": "User 042 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0043",
+    "name": "User 043 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0044",
+    "name": "User 044 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0045",
+    "name": "User 045 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0046",
+    "name": "User 046 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0047",
+    "name": "User 047 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0048",
+    "name": "User 048 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0049",
+    "name": "User 049 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0050",
+    "name": "User 050 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0051",
+    "name": "User 051 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0052",
+    "name": "User 052 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0053",
+    "name": "User 053 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0054",
+    "name": "User 054 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0055",
+    "name": "User 055 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0056",
+    "name": "User 056 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0057",
+    "name": "User 057 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0058",
+    "name": "User 058 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0059",
+    "name": "User 059 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0060",
+    "name": "User 060 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0061",
+    "name": "User 061 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0062",
+    "name": "User 062 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0063",
+    "name": "User 063 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0064",
+    "name": "User 064 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0065",
+    "name": "User 065 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0066",
+    "name": "User 066 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0067",
+    "name": "User 067 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0068",
+    "name": "User 068 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0069",
+    "name": "User 069 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0070",
+    "name": "User 070 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0071",
+    "name": "User 071 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0072",
+    "name": "User 072 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0073",
+    "name": "User 073 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0074",
+    "name": "User 074 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0075",
+    "name": "User 075 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0076",
+    "name": "User 076 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0077",
+    "name": "User 077 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0078",
+    "name": "User 078 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0079",
+    "name": "User 079 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0080",
+    "name": "User 080 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0081",
+    "name": "User 081 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0082",
+    "name": "User 082 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0083",
+    "name": "User 083 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0084",
+    "name": "User 084 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0085",
+    "name": "User 085 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0086",
+    "name": "User 086 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0087",
+    "name": "User 087 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0088",
+    "name": "User 088 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0089",
+    "name": "User 089 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0090",
+    "name": "User 090 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0091",
+    "name": "User 091 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0092",
+    "name": "User 092 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0093",
+    "name": "User 093 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0094",
+    "name": "User 094 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0095",
+    "name": "User 095 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0096",
+    "name": "User 096 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0097",
+    "name": "User 097 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0098",
+    "name": "User 098 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0099",
+    "name": "User 099 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0100",
+    "name": "User 100 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0101",
+    "name": "User 101 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0102",
+    "name": "User 102 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0103",
+    "name": "User 103 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0104",
+    "name": "User 104 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0105",
+    "name": "User 105 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0106",
+    "name": "User 106 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0107",
+    "name": "User 107 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0108",
+    "name": "User 108 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0109",
+    "name": "User 109 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0110",
+    "name": "User 110 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0111",
+    "name": "User 111 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0112",
+    "name": "User 112 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0113",
+    "name": "User 113 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0114",
+    "name": "User 114 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0115",
+    "name": "User 115 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0116",
+    "name": "User 116 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0117",
+    "name": "User 117 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0118",
+    "name": "User 118 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0119",
+    "name": "User 119 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0120",
+    "name": "User 120 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0121",
+    "name": "User 121 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0122",
+    "name": "User 122 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0123",
+    "name": "User 123 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0124",
+    "name": "User 124 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0125",
+    "name": "User 125 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0126",
+    "name": "User 126 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0127",
+    "name": "User 127 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0128",
+    "name": "User 128 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0129",
+    "name": "User 129 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0130",
+    "name": "User 130 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0131",
+    "name": "User 131 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0132",
+    "name": "User 132 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0133",
+    "name": "User 133 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0134",
+    "name": "User 134 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0135",
+    "name": "User 135 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0136",
+    "name": "User 136 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0137",
+    "name": "User 137 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0138",
+    "name": "User 138 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0139",
+    "name": "User 139 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0140",
+    "name": "User 140 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0141",
+    "name": "User 141 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0142",
+    "name": "User 142 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0143",
+    "name": "User 143 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0144",
+    "name": "User 144 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0145",
+    "name": "User 145 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0146",
+    "name": "User 146 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0147",
+    "name": "User 147 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0148",
+    "name": "User 148 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0149",
+    "name": "User 149 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0150",
+    "name": "User 150 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0151",
+    "name": "User 151 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0152",
+    "name": "User 152 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0153",
+    "name": "User 153 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0154",
+    "name": "User 154 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0155",
+    "name": "User 155 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0156",
+    "name": "User 156 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0157",
+    "name": "User 157 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0158",
+    "name": "User 158 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0159",
+    "name": "User 159 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0160",
+    "name": "User 160 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0161",
+    "name": "User 161 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0162",
+    "name": "User 162 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0163",
+    "name": "User 163 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0164",
+    "name": "User 164 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0165",
+    "name": "User 165 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0166",
+    "name": "User 166 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0167",
+    "name": "User 167 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0168",
+    "name": "User 168 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0169",
+    "name": "User 169 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0170",
+    "name": "User 170 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0171",
+    "name": "User 171 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0172",
+    "name": "User 172 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0173",
+    "name": "User 173 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0174",
+    "name": "User 174 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0175",
+    "name": "User 175 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0176",
+    "name": "User 176 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0177",
+    "name": "User 177 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0178",
+    "name": "User 178 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0179",
+    "name": "User 179 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0180",
+    "name": "User 180 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0181",
+    "name": "User 181 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0182",
+    "name": "User 182 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0183",
+    "name": "User 183 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0184",
+    "name": "User 184 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0185",
+    "name": "User 185 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0186",
+    "name": "User 186 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0187",
+    "name": "User 187 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0188",
+    "name": "User 188 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0189",
+    "name": "User 189 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0190",
+    "name": "User 190 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0191",
+    "name": "User 191 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0192",
+    "name": "User 192 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0193",
+    "name": "User 193 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0194",
+    "name": "User 194 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0195",
+    "name": "User 195 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0196",
+    "name": "User 196 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0197",
+    "name": "User 197 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0198",
+    "name": "User 198 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0199",
+    "name": "User 199 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0200",
+    "name": "User 200 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0201",
+    "name": "User 201 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0202",
+    "name": "User 202 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0203",
+    "name": "User 203 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0204",
+    "name": "User 204 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0205",
+    "name": "User 205 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0206",
+    "name": "User 206 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0207",
+    "name": "User 207 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0208",
+    "name": "User 208 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0209",
+    "name": "User 209 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0210",
+    "name": "User 210 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0211",
+    "name": "User 211 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0212",
+    "name": "User 212 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0213",
+    "name": "User 213 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0214",
+    "name": "User 214 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0215",
+    "name": "User 215 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0216",
+    "name": "User 216 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0217",
+    "name": "User 217 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0218",
+    "name": "User 218 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0219",
+    "name": "User 219 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0220",
+    "name": "User 220 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0221",
+    "name": "User 221 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0222",
+    "name": "User 222 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0223",
+    "name": "User 223 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0224",
+    "name": "User 224 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0225",
+    "name": "User 225 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0226",
+    "name": "User 226 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0227",
+    "name": "User 227 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0228",
+    "name": "User 228 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0229",
+    "name": "User 229 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0230",
+    "name": "User 230 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0231",
+    "name": "User 231 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0232",
+    "name": "User 232 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0233",
+    "name": "User 233 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0234",
+    "name": "User 234 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0235",
+    "name": "User 235 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0236",
+    "name": "User 236 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0237",
+    "name": "User 237 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0238",
+    "name": "User 238 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0239",
+    "name": "User 239 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0240",
+    "name": "User 240 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0241",
+    "name": "User 241 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0242",
+    "name": "User 242 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0243",
+    "name": "User 243 / Premium Audio",
+    "segment": "premium_audio",
+    "preferences": [
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0244",
+    "name": "User 244 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0245",
+    "name": "User 245 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0246",
+    "name": "User 246 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0247",
+    "name": "User 247 / Gaming Enthusiast",
+    "segment": "gaming_enthusiast",
+    "preferences": [
+      "Gaming",
+      "Accessories",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "u0248",
+    "name": "User 248 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "u0249",
+    "name": "User 249 / Budget Electronics",
+    "segment": "budget_electronics",
+    "preferences": [
+      "Accessories",
+      "Wearables",
+      "Audio"
+    ]
+  },
+  {
+    "id": "u0250",
+    "name": "User 250 / Smart Home Adopter",
+    "segment": "smart_home_fan",
+    "preferences": [
+      "Smart Home",
+      "Networking",
+      "Cameras"
+    ]
+  }
+]

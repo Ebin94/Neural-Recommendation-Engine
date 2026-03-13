@@ -1,0 +1,66 @@
+# Build Sequence
+
+## Phase 1
+
+### 1. Project bootstrap
+- initialize repo
+- create `model/` and `app/`
+- scaffold Vite React app
+- install Tailwind, Recharts, Lucide
+
+### 2. Data pipeline
+- choose dataset
+- preprocess interactions
+- create user/item metadata
+- save clean intermediate files
+
+### 3. Recommender training
+- build simple two-tower or embedding-based recommender
+- train offline
+- evaluate basic ranking quality
+- generate top-N candidates per user
+
+### 4. Artifact export
+- export compact JSON files for demo
+- create explanation metadata
+- create segment summaries
+- create business insights aggregates
+
+### 5. Frontend MVP
+- build page layout
+- build navigation
+- build persona selector
+- build recommendation cards
+- build detail drawer
+- build insights page
+- build methodology page
+
+### 6. Deployment
+- connect GitHub repo
+- deploy to Vercel
+- verify all JSON assets load correctly
+
+---
+
+## Phase 2
+
+### 7. Client-side re-ranking
+- implement ranking preference toggles
+- recalculate displayed order from candidate list
+- update explanation text accordingly
+
+### 8. Prompt actions
+- add prompt bar
+- implement action routing
+- connect actions to deterministic handlers
+
+### 9. Business intelligence enhancements
+- add under-exposed quality items
+- add strategy cards by segment
+- add diversity and novelty summaries
+
+### 10. Portfolio polish
+- improve copy
+- add screenshots
+- add demo GIF
+- finalize README and resume bullets
